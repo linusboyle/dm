@@ -1,0 +1,36 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+---
+# Index of Celestial
+
+- [Aurumach Rilmani](aurumach-rilmani-mpp.md)
+- [Avoral Guardinal](avoral-guardinal-mpp.md)
+- [Bariaur Wanderer](bariaur-wanderer-mpp.md)
+- [Celestial Spirit (5th-level Spell)](celestial-spirit-5th-level-spell-tce.md)
+- [Celestial Spirit (6th-level Spell)](celestial-spirit-6th-level-spell-tce.md)
+- [Celestial Spirit (7th-level Spell)](celestial-spirit-7th-level-spell-tce.md)
+- [Celestial Spirit (8th-level Spell)](celestial-spirit-8th-level-spell-tce.md)
+- [Celestial Spirit (9th-level Spell)](celestial-spirit-9th-level-spell-tce.md)
+- [Couatl](couatl.md)
+- [Cuprilach Rilmani](cuprilach-rilmani-mpp.md)
+- [Dabus](dabus-mpp.md)
+- [Deva](deva.md)
+- [Empyrean](empyrean.md)
+- [Equinal Guardinal](equinal-guardinal-mpp.md)
+- [Fensir Devourer](fensir-devourer-bgg.md)
+- [Ferrumach Rilmani](ferrumach-rilmani-mpp.md)
+- [Hound Archon](hound-archon-mpp.md)
+- [Ki-rin](ki-rin-mpmm.md)
+- [Lantern Archon](lantern-archon-mpp.md)
+- [Living Portent](living-portent-bmt.md)
+- [Musteval Guardinal](musteval-guardinal-mpp.md)
+- [Pegasus](pegasus.md)
+- [Planar Incarnate (celestial)](planar-incarnate-celestial-mpp.md)
+- [Planetar](planetar.md)
+- [Solar](solar.md)
+- [Sunfly](sunfly-mpp.md)
+- [Swarm of Sunflies](swarm-of-sunflies-mpp.md)
+- [Unicorn](unicorn.md)
+- [Veiled Presence](veiled-presence-bmt.md)
+- [Warden Archon](warden-archon-mpp.md)
