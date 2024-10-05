@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 界域漫游指南
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- 团规：[[界域漫游指南：JMJZR的TTRPG团规]]
