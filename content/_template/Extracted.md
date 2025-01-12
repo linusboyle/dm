@@ -1,9 +1,9 @@
 ---
 title: {{newTitle}}
 date: {{date}}
-magic-user-spell-level: 3
+cleric-spell-level: 5
 tags:
-  - src/ose/CC4
+  - src/ose/OSECF
   - ose/spell
 ---
 

@@ -17,4 +17,16 @@ title: 界域漫游指南
 
 （**WIP**）房规与资源
 
+<!-- QueryToSerialize: Table rows.file.link from #src/ose/OSECF and #ose/spell where cleric-spell-level >= 1 group by cleric-spell-level -->
+<!-- SerializedQuery: Table rows.file.link from #src/ose/OSECF and #ose/spell where cleric-spell-level >= 1 group by cleric-spell-level -->
+
+| cleric-spell-level | rows.file.link                                                                                                                                                                                                                                                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                  | <ul><li>[[防护邪恶]]</li><li>[[移除恐惧]]</li><li>[[治愈轻伤]]</li><li>[[抵抗寒冷]]</li><li>[[净化饮食]]</li><li>[[光亮]]</li><li>[[侦测魔法]]</li><li>[[侦测邪恶]]</li></ul>         |
+| 2                  | <ul><li>[[魅惑蛇类]]</li><li>[[祝福]]</li><li>[[知晓阵营]]</li><li>[[沉默 15'半径]]</li><li>[[抵抗火焰]]</li><li>[[寻找陷阱]]</li><li>[[定身类人]]</li><li>[[动物交谈]]</li></ul> |
+| 3                  | <ul><li>[[移除诅咒]]</li><li>[[治愈疾病]]</li><li>[[恒久光亮]]</li><li>[[强击]]</li><li>[[定位物体]]</li><li>[[动物生长]]</li></ul>                                                                                       |
+| 4                  | <ul><li>[[防护邪恶 10'半径]]</li><li>[[造水]]</li><li>[[治愈重伤]]</li><li>[[植物交谈]]</li><li>[[化杖为蛇]]</li><li>[[中和毒素]]</li></ul>                                                                           |
+| 5                  | <ul><li>[[驱散邪恶]]</li><li>[[通神]]</li><li>[[虫灾]]</li><li>[[创造食物]]</li><li>[[使命]]</li><li>[[复活死者]]</li><li>[[Extracted]]</li></ul>                                                |
+<!-- SerializedQuery END -->
+
 [^1]: 部分经典奇幻职业根据高等奇幻中的可选规则进行修改，例如奥术施法遵从高等规则。
