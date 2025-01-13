@@ -2,20 +2,17 @@
 title: 界域漫游指南
 ---
 
-欢迎参与由我主持的跑团！**请确保阅读并遵守[[界域漫游指南：JMJZR的TTRPG团规|团规]]，熟悉主持人的带团风格并确认是否适合自己**。
+欢迎参与由我主持的跑团！**请阅读并遵守[[界域漫游指南：JMJZR的TTRPG团规|团规]]，熟悉主持人的带团风格并确认是否适合自己**。此外可参照[果园专区](https://www.goddessfantasy.net/bbs/index.php?board=2193.0)内的团贴和战报。
 
-## OSE 老派要典
+参团前请确保：
+- 拥有一台能运行现代浏览器的桌面端设备（是的，平板和手机不行）
+- 安静的语音环境
+- 提前安装好腾讯会议
 
-此处收录的玩家资源以经典奇幻为基础[^1]，有选择地加入高等奇幻和其他扩展中的部分内容，也包含第三方和自制资源。本站收录的所有职业见[[OSE 职业目录]]，所有法术见[[OSE 法术目录]]。
+房规和玩家资源详见[[DND5E 龙与地下城第五版]]（**WIP**）以及[[OSE 老派要典]]。
 
-参加由我主持的OSE游戏时，以下资源默认可用。其他资源涉及世设等因素，需向裁判申请。
+另外推荐在参与OSE团前阅读以下关于OSR的介绍：
 
-- 职业：[[OSE 核心职业]]
-- 法术：[[OSE 核心法术]]
-
-
-## DND5E 龙与地下城第五版
-
-（**WIP**）房规与资源
-
-[^1]: 部分经典奇幻职业根据高等奇幻中的可选规则进行修改，例如奥术施法遵从高等规则。
+- [什么是OSR？](https://www.goddessfantasy.net/bbs/index.php?topic=134811.0) by 肉冻云雀舌
+- [OSR运动经典读物《老派游戏快速入门》A Quick Primer For Old School Gaming](https://www.goddessfantasy.net/bbs/index.php?topic=141676.0) by Matt Finch，白药君译
+- [OSR运动经典读物《伪经准则》PRINCIPIA APOCRYPHA](https://www.goddessfantasy.net/bbs/index.php?topic=141677.0) by David Perry，白药君译
