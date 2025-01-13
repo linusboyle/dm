@@ -1,13 +1,6 @@
 ---
 title: 团规
 date: 2024-09-09
-tags:
-  - reference
-  - ttrpg
-see also:
-  - "[[5E DM速查]]"
-  - "[[索引]]"
-  - "[[2024-09-09]]"
 ---
 
 ![[界域漫游指南：JMJZR的TTRPG团规-20250112110049262.webp]]

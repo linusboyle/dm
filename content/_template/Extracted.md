@@ -1,9 +1,9 @@
 ---
 title: {{newTitle}}
 date: {{date}}
-cleric-spell-level: 5
+illusionist-spell-level: 4
 tags:
-  - src/ose/OSECF
+  - src/ose/OSEAF
   - ose/spell
 ---
 
