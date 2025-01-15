@@ -12,5 +12,9 @@ tags:
 - 职业：[[OSE 核心职业]]
 - 法术：[[OSE 核心法术]]
 
+**Credits**
+
+- OSE 经典奇幻 （[OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)）/ 白药君，亮君，ZzNoah，HXQXH，水肺，Ghost翻译
+
 [^1]: 部分经典奇幻职业根据高等奇幻中的可选规则进行修改，如奥术施法遵从高等规则。
 [^2]: 高等奇幻允许种族和职业分离。我不使用这条可选规则，故不收录种族。

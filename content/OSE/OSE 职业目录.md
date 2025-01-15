@@ -7,6 +7,7 @@ tags:
 
 <!-- QueryToSerialize: List from #ose/class and !#ose/class/demihuman -->
 <!-- SerializedQuery: List from #ose/class and !#ose/class/demihuman -->
+- [[侍僧]]
 - [[杂耍者]]
 - [[骑士]]
 - [[野蛮人]]
@@ -30,11 +31,11 @@ tags:
 - [[精灵]]
 - [[半身人]]
 - [[矮人]]
-- [[灰矮人]]
-- [[半精灵]]
 - [[半兽人]]
+- [[半精灵]]
 - [[卓尔]]
 - [[地底侏儒]]
+- [[灰矮人]]
 <!-- SerializedQuery END -->
 
 
