@@ -1,0 +1,30 @@
+---
+tags:
+  - ose
+---
+
+## OSE 老派要典
+
+
+### 房规
+
+适用于所有战役的通用房规见[[OSE 房规]]。 部分战役存在特定房规，请参考开团公告。
+
+### 玩家资源
+
+收录的所有玩家资源见[[OSE 可用资源大全]]。
+
+参加由我主持的OSE游戏时，老派要典SRD内的资源默认可用（除非有特别说明），即：
+
+- 职业：[[OSE 核心职业]]
+- 法术：[[OSE 核心法术]]
+
+其他资源涉及世设等因素，如果感兴趣需向裁判申请。
+
+---
+
+另外推荐在参与OSE团前阅读以下关于OSR的介绍：
+
+- [什么是OSR？](https://www.goddessfantasy.net/bbs/index.php?topic=134811.0) by 肉冻云雀舌（a.k.a. 水肺）
+- [OSR运动经典读物《老派游戏快速入门》A Quick Primer For Old School Gaming](https://www.goddessfantasy.net/bbs/index.php?topic=141676.0) by Matt Finch，白药君译
+- [OSR运动经典读物《伪经准则》PRINCIPIA APOCRYPHA](https://www.goddessfantasy.net/bbs/index.php?topic=141677.0) by David Perry，白药君译
