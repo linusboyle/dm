@@ -4,7 +4,7 @@ title: 索引
 
 ![[banner.svg]]
 
-欢迎参与由我主持的跑团！**请阅读并遵守[[界域漫游指南：JMJZR的TTRPG团规|团规]]，熟悉主持人的带团风格并确认是否适合自己**。此外可参照[果园专区](https://www.goddessfantasy.net/bbs/index.php?board=2193.0)内的团贴和战报。
+欢迎参与由月狂（a.k.a. [狷墨居主人](https://blog.linusboyle.cn/)）主持的跑团！**请阅读并遵守[[界域漫游指南：JMJZR的TTRPG团规|团规]]，熟悉主持人的带团风格并确认是否适合自己**。此外可参照[果园专区](https://www.goddessfantasy.net/bbs/index.php?board=2193.0)内的团贴和战报。
 
 参加网团前请准备：
 

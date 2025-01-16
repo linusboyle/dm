@@ -2,11 +2,10 @@
 tags:
   - ose/list/class
 ---
-
-本站收录：
-
 <!-- QueryToSerialize: List from #ose/class and !#ose/class/demihuman -->
 <!-- SerializedQuery: List from #ose/class and !#ose/class/demihuman -->
+- [[勇士]]
+- [[公主]]
 - [[侍僧]]
 - [[杂耍者]]
 - [[骑士]]
@@ -36,6 +35,8 @@ tags:
 - [[卓尔]]
 - [[地底侏儒]]
 - [[灰矮人]]
+- [[木精灵]]
+- [[森林侏儒]]
+- [[相位精灵]]
 <!-- SerializedQuery END -->
-
 
