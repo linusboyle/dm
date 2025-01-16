@@ -5,6 +5,8 @@ tags:
 
 ## OSE 老派要典
 
+%% 第一次玩OSE请看[[OSE 快速车卡]] %%
+
 ### 房规
 
 基于高等奇幻制定，见[[OSE 房规]]
@@ -22,9 +24,16 @@ tags:
 
 ---
 
+另外推荐在参与OSE团前阅读以下关于OSR的介绍：
+
+- [什么是OSR？](https://www.goddessfantasy.net/bbs/index.php?topic=134811.0) by 肉冻云雀舌（a.k.a. 水肺）
+- [OSR运动经典读物《老派游戏快速入门》A Quick Primer For Old School Gaming](https://www.goddessfantasy.net/bbs/index.php?topic=141676.0) by Matt Finch，白药君译
+- [OSR运动经典读物《伪经准则》PRINCIPIA APOCRYPHA](https://www.goddessfantasy.net/bbs/index.php?topic=141677.0) by David Perry，白药君译
+
+
 **Credits**
 
-- OSE 经典奇幻 （[OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)）/ 白药君，亮君，ZzNoah，HXQXH，水肺，Ghost译
+- OSE 系统参考文档（[OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)）/ 白药君，亮君，ZzNoah，HXQXH，水肺，Ghost译
 - 第三方资源作者/译者见对应页
 
 [^1]: 部分经典奇幻职业根据高等奇幻中的可选规则进行修改，如奥术施法遵从高等规则。
