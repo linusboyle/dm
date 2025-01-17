@@ -4,15 +4,15 @@ tags:
 ---
 
 
-## OSE 经典奇幻
+## OSE SRD
 
 <!-- QueryToSerialize: List from #ose/class and (#src/ose/OSECF) -->
 <!-- SerializedQuery: List from #ose/class and (#src/ose/OSECF) -->
-- [[战士]]
-- [[牧师]]
-- [[盗贼]]
-- [[魔法师]]
-- [[精灵]]
-- [[半身人]]
 - [[矮人]]
+- [[盗贼]]
+- [[战士]]
+- [[半身人]]
+- [[牧师]]
+- [[精灵]]
+- [[魔法师]]
 <!-- SerializedQuery END -->

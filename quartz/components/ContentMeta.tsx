@@ -30,7 +30,21 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        if (fileData.dates.created) {
+            segments.push(
+                <span>
+                创建于 <Date date={fileData.dates.created} locale={cfg.locale}  />
+                </span>,
+            )
+        }
+
+        if (fileData.dates.modified) {
+            segments.push(
+                <span>
+                修改于 <Date date={fileData.dates.modified} locale={cfg.locale}  />
+                </span>,
+            )
+        }
       }
 
       // Display reading time if enabled
@@ -41,6 +55,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         })
         segments.push(<span>{displayedTime}</span>)
       }
+
+      segments.push(
+        <a
+          href={`https://github.com/linusboyle/dm/commits/v4/${fileData.filePath}`}
+          target="_blank"
+        >
+          历史更改
+        </a>,
+      )
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
