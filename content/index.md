@@ -1,5 +1,6 @@
 ---
 title: 索引
+date: 2025-01-12
 ---
 
 ![[banner.svg]]
