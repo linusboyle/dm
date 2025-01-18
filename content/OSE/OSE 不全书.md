@@ -1,5 +1,5 @@
 ---
-title: OSE 可用资源大全
+title: OSE 不全书
 date: 2025-01-16
 tags:
   - ose/list
