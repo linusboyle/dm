@@ -21,13 +21,13 @@ aliases:
 
 <!-- QueryToSerialize: List from #ose/class and #src/ose/OSECF -->
 <!-- SerializedQuery: List from #ose/class and #src/ose/OSECF -->
+- [[魔法师]]
 - [[精灵]]
 - [[矮人]]
 - [[盗贼]]
+- [[牧师]]
 - [[战士]]
 - [[半身人]]
-- [[牧师]]
-- [[魔法师]]
 <!-- SerializedQuery END -->
 
 ## 高级奇幻
@@ -40,6 +40,7 @@ aliases:
 - [[游侠]]
 - [[杂耍者]]
 - [[德鲁伊]]
+- [[幻术师]]
 - [[地底侏儒]]
 - [[圣武士]]
 - [[吟游诗人]]
@@ -48,7 +49,6 @@ aliases:
 - [[半兽人]]
 - [[刺客]]
 - [[侏儒]]
-- [[幻术师]]
 <!-- SerializedQuery END -->
 
 ## Carcass Crawler 杂志
@@ -65,12 +65,12 @@ aliases:
 - [[提夫林]]
 - [[相位精灵]]
 - [[木精灵]]
+- [[瓦肯人]]
+- [[念力师]]
 - [[奥法学者]]
 - [[奆人]]
 - [[地精]]
 - [[侍僧]]
-- [[念力师]]
-- [[瓦肯人]]
 <!-- SerializedQuery END -->
 
 ## 其他正式发表的职业
@@ -90,6 +90,7 @@ aliases:
 
 <!-- QueryToSerialize: List from #ose/class and #src/ose/HB -->
 <!-- SerializedQuery: List from #ose/class and #src/ose/HB -->
+- [[龙]]
 - [[血肉信徒]]
 - [[章鱼人]]
 - [[疯子]]
@@ -165,6 +166,7 @@ aliases:
 | 5  | <ul><li>[[高等创造]]</li><li>[[阴影投射]]</li><li>[[阴影变形]]</li><li>[[镜之迷宫]]</li><li>[[窥镜]]</li><li>[[混乱]]</li><li>[[显灵]]</li><li>[[时间流速]]</li><li>[[拟容]]</li><li>[[幻象]]</li><li>[[半影怪物]]</li><li>[[投影]]</li></ul>                 |
 | 6  | <ul><li>[[酸雾]]</li><li>[[误导]]</li><li>[[触发幻象]]</li><li>[[群体暗示]]</li><li>[[穿镜]]</li><li>[[真视]]</li><li>[[永久幻象]]</li><li>[[梦境许愿]]</li><li>[[梦境强令]]</li><li>[[异象]]</li><li>[[幽影]]</li><li>[[假冒]]</li></ul>                     |
 <!-- SerializedQuery END -->
+
 
 ## 其他
 
