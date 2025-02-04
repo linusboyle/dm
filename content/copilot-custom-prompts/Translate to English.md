@@ -1,1 +1,0 @@
-Translate the following Text to English: {}
