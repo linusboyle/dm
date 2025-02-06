@@ -1,0 +1,1 @@
+ask three questions about {activeNote} using the same language

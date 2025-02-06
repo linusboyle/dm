@@ -1,0 +1,1 @@
+Based on existing content of {}, expand on it and continue writing until the paragraph is finished. You should write in the same style and format. Only respond with the new text, not the original.
