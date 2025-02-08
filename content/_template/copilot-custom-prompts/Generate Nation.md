@@ -1,6 +1,6 @@
 <context>
 
-{[[灰烬余火 战役世界设定]]}
+{[[灰烬余火 战役世设  (GM）]]}
 
 Use the following information as inspiration:
 
