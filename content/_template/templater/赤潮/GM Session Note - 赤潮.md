@@ -7,7 +7,7 @@ tags:
 
 <%*
 let title = tp.file.creation_date("YYYY-MM-DD");
-await tp.file.move("/worldbuilding/赤潮/记录/" + title)
+await tp.file.move("/B2 边陲堡/记录/" + title)
 _%>
 
 ## GM 笔记
