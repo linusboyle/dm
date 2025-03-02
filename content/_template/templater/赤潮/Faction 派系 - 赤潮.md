@@ -16,6 +16,18 @@ _%>
 
 <% tp.file.cursor(0) %>
 
+## 有利条件
+
+1. 
+
+## 目标
+
+- 长期目标：
+	- 计划：
+		- 行动：（0/2）
+	- 计划：
+		- 行动：（0/2）
+		
 ```dataview
 Table without id file.link AS "§", item.text as "交互"
 From !"_template" and #campaign/redtide/session 

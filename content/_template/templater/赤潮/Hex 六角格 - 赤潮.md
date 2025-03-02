@@ -9,7 +9,7 @@ let title = tp.file.title
 if (title.startsWith("Untitled") ) {
 	title = await tp.system.prompt("File name: ")
 } 
-await tp.file.move("/worldbuilding/赤潮/地点/Hex/" + title)
+await tp.file.move("/worldbuilding/赤潮/Hex/" + title)
 _%>
 
 # <% title %>
