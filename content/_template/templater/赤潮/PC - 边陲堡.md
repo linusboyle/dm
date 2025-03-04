@@ -2,7 +2,7 @@
 date: <% tp.file.creation_date("YYYY-MM-DD")%>
 description: 
 tags: 
-- campaign/redtide/NPC
+- campaign/redtide/PC
 status:
 ---
 
@@ -11,7 +11,7 @@ let title = tp.file.title
 if (title.startsWith("Untitled") ) {
 	title = await tp.system.prompt("File name: ")
 } 
-await tp.file.move("/worldbuilding/赤潮/NPC/" + title)
+await tp.file.move("/B2 边陲堡/PC/" + title)
 _%>
 
 # <% title %>
