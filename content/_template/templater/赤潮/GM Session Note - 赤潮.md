@@ -12,6 +12,8 @@ _%>
 
 ## GM 笔记
 
+时间：<% tp.file.creation_date("YYYY-MM-DD")%>
+
 参与：
 
 - [ ] 可悲的人哪
