@@ -16,6 +16,7 @@ aliases:
 
 - 系统参考文档（[OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)）/ 译文来自OSE・经典奇幻，白药君，亮君，ZzNoah，HXQXH，水肺，Ghost译
 - [[德鲁伊]]职业及法术 / ZzNoah译
+- 其他官方职业及法术 / 月狂译
 - 第三方资源作者/译者见对应页
 
 # **职业**

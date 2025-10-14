@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "zh-CN",
     baseUrl: "dm.linusboyle.cn",
-    ignorePatterns: ["private", "templates", ".obsidian", "_template", "worldbuilding"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_template"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
