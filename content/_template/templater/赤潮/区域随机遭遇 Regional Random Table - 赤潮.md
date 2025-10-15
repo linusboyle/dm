@@ -1,8 +1,7 @@
 ---
-date: <% tp.file.creation_date("YYYY-MM-DD")%>
-tags: 
-- table
+{"publish":true,"created":"<% tp.file.creation_date(\"YYYY-MM-DD\")%>","tags":["table"],"cssclasses":""}
 ---
+
 
 <%*
 let title = tp.file.title

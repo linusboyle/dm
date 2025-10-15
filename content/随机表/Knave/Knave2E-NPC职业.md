@@ -1,8 +1,7 @@
 ---
-date: 2025-03-18
-tags: 
-    - table
+{"publish":true,"created":"2025-03-18","tags":["table"],"cssclasses":""}
 ---
+
 # Knave2E-NPC职业
 
 `dice: [[Knave2E-NPC职业^table]]`

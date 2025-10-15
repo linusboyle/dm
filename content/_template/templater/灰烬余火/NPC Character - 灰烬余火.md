@@ -1,10 +1,7 @@
 ---
-date: <% tp.file.creation_date("YYYY-MM-DD")%>
-description: 
-tags: 
-- campaign/ash/NPC
-status:
+{"publish":true,"created":"<% tp.file.creation_date(\"YYYY-MM-DD\")%>","tags":["campaign/ash/NPC"],"cssclasses":""}
 ---
+
 
 <%*
 let title = tp.file.title
@@ -18,10 +15,5 @@ _%>
 
 <% tp.file.cursor(0) %>
 
-```dataview
-Table without id file.link AS "§", item.text as "交互"
-From "worldbuilding" and #campaign/ash/session 
-Flatten file.lists as item
-where contains(item.text, this.file.name)
-sort file.name DESC
-```
+| § | 交互 |
+| - | -- |

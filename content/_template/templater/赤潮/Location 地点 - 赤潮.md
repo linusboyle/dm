@@ -1,8 +1,7 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
-tags:
-  - campaign/redtide/location
+{"publish":true,"created":"<% tp.date.now(\"YYYY-MM-DD\") %>","tags":["campaign/redtide/location"],"cssclasses":""}
 ---
+
 
 <%*
 let title = tp.file.title
@@ -16,10 +15,5 @@ _%>
 
 <% tp.file.cursor(0) %>
 
-```dataview
-Table without id file.link AS "§", item.text as "交互"
-From !"_template" and #campaign/redtide/session 
-Flatten file.lists as item
-where contains(item.text, this.file.name)
-sort file.name DESC
-```
+| § | 交互 |
+| - | -- |

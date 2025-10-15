@@ -1,10 +1,6 @@
 ---
-title: {{newTitle}}
-date: {{date}}
-illusionist-spell-level: 6
-tags:
-  - src/ose/OSEAF
-  - ose/spell
+{"publish":true,"title":{"{ newTitle }":null},"created":{"{ date }":null},"tags":["src/ose/OSEAF","ose/spell"],"cssclasses":""}
 ---
+
 
 {{content}}

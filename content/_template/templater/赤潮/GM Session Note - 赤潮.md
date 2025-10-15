@@ -1,9 +1,7 @@
 ---
-date: <% tp.file.creation_date("YYYY-MM-DD")%>
-summary: 
-tags: 
-- campaign/redtide/session
+{"publish":true,"created":"<% tp.file.creation_date(\"YYYY-MM-DD\")%>","tags":["campaign/redtide/session"],"cssclasses":""}
 ---
+
 
 <%*
 let title = tp.file.creation_date("YYYY-MM-DD");

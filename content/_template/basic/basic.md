@@ -1,4 +1,4 @@
 ---
-date: {{date}}
-tags: []
+{"publish":true,"created":{"{ date }":null},"cssclasses":""}
 ---
+
