@@ -1,8 +1,7 @@
 ---
-date: 2025-03-18
-tags: 
-    - table
+{"publish":true,"created":"2025-03-18","tags":["table"],"cssclasses":""}
 ---
+
 # POI-山地
 
 `dice: [[POI-山地^table]]`

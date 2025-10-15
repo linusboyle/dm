@@ -1,8 +1,7 @@
 ---
-date: 2025-03-18
-tags: 
-    - table
+{"publish":true,"created":"2025-03-18","tags":["table"],"cssclasses":""}
 ---
+
 # POI-龙龟背部
 
 `dice: [[POI-龙龟背部^table]]`
