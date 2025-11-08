@@ -1,4 +1,4 @@
 ---
-{"publish":true,"created":"<% tp.file.creation_date(\"YYYY-MM-DD\")%>","cssclasses":""}
+{"publish":true,"cssclasses":""}
 ---
 

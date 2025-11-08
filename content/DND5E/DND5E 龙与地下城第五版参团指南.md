@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-01-19T14:46:57.423+08:00","tags":["dnd5e"],"cssclasses":""}
+{"publish":true,"tags":["dnd5e"],"cssclasses":""}
 ---
 
 

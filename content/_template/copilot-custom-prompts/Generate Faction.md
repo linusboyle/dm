@@ -1,6 +1,6 @@
 <context>
 
-{[[战役设定]]}
+{[[worldbuilding/赤潮/战役设定]]}
 
 Use the following information as inspiration only:
 

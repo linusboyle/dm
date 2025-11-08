@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"<% tp.file.creation_date(\"YYYY-MM-DD\")%>","tags":["campaign/ash/NPC"],"cssclasses":""}
+{"publish":true,"tags":["campaign/ash/NPC"],"cssclasses":""}
 ---
 
 

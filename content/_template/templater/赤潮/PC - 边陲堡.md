@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"<% tp.file.creation_date(\"YYYY-MM-DD\")%>","tags":["campaign/redtide/PC"],"cssclasses":""}
+{"publish":true,"tags":["campaign/redtide/PC"],"cssclasses":""}
 ---
 
 

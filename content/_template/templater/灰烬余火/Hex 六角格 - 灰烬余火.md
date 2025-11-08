@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"<% tp.date.now(\"YYYY-MM-DD\") %>","tags":["campaign/ash/hex"],"cssclasses":""}
+{"publish":true,"tags":["campaign/ash/hex"],"cssclasses":""}
 ---
 
 

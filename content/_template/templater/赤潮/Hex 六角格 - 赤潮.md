@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"<% tp.date.now(\"YYYY-MM-DD\") %>","tags":["campaign/redtide/hex"],"cssclasses":""}
+{"publish":true,"tags":["campaign/redtide/hex"],"cssclasses":""}
 ---
 
 

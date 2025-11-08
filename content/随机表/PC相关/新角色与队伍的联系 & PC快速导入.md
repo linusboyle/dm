@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-03-18","tags":["table"],"cssclasses":""}
+{"publish":true,"tags":["table"],"cssclasses":""}
 ---
 
 # 新角色与队伍的联系 & PC快速导入

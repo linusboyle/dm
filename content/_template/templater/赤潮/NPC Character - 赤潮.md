@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"<% tp.file.creation_date(\"YYYY-MM-DD\")%>","tags":["campaign/redtide/NPC"],"cssclasses":""}
+{"publish":true,"tags":["campaign/redtide/NPC"],"cssclasses":""}
 ---
 
 

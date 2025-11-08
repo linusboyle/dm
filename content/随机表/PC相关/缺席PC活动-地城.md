@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-03-18","tags":["table"],"cssclasses":""}
+{"publish":true,"tags":["table"],"cssclasses":""}
 ---
 
 # 缺席PC活动-地城

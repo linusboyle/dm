@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"<% tp.file.creation_date(\"YYYY-MM-DD\")%>","tags":["table"],"cssclasses":""}
+{"publish":true,"tags":["table"],"cssclasses":""}
 ---
 
 

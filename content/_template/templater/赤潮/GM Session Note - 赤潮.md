@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"<% tp.file.creation_date(\"YYYY-MM-DD\")%>","tags":["campaign/redtide/session"],"cssclasses":""}
+{"publish":true,"tags":["campaign/redtide/session"],"cssclasses":""}
 ---
 
 
@@ -24,7 +24,7 @@ _%>
 ### 玩家行动
 
 - D1
-	- [[0101]]
+	- [[worldbuilding/灰烬余火/地点/Hex/0101]]
 	- [[0201]]
 
 ## XP
