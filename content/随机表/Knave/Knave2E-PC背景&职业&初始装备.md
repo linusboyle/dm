@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-03-18","tags":["table"],"cssclasses":""}
+{"publish":true,"tags":["table"],"cssclasses":""}
 ---
 
 # Knave2E-PC背景&职业&初始装备
