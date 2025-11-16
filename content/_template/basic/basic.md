@@ -1,4 +1,4 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":{"{ date }":null},"cssclasses":""}
 ---
 
