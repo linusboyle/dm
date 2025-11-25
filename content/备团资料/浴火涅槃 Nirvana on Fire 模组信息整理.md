@@ -21,7 +21,7 @@ Bodhisattva 2a  菩提萨埵2a卫星
 
 ## 派系
 
-### 散光科技
+### 散光计算科技有限公司
 
 AI科技公司
 
@@ -35,7 +35,7 @@ AI科技公司
 
 ### 涅槃计划
 
-散光科技部分研究员发起的宗教乌托邦计划
+散光部分研究员发起的宗教乌托邦计划
 
 - 行为：
 	- 和散光合作建立起殖民地
@@ -43,8 +43,8 @@ AI科技公司
 - 目的：
 	- 远离核心星区，建立更美好的乌托邦世界：科技/灵性结合，人与机器共存
 - 人员：
-	- Abbot Benz-Shiroyuki
-	- First Instructor Fugen
+	- Abbot Benz-Shiroyuki 本茨主持
+	- First Instructor Fugen 普贤
 	- 其他5人等
 
 ### 托塔天王信徒
@@ -58,7 +58,7 @@ AI科技公司
 	- AI也是为保存殖民地做出的以上论断，在恶劣的条件下即使修复能源供应也无法存活
 	- 之后输出这种“革命”
 - 人员：
-	- Genma: The Prophet of Bishamonten
+	- Genma: The Prophet of Bishamonten 玄摩
 		- 认为Benz不切实际、只会空想，自己要用强硬的手段保存下殖民地，即使这意味着革命
 	- Novice 3rd Rank Ensho
 	- 其他5人等

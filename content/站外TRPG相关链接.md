@@ -10,3 +10,6 @@
 	- 石墓密林SRD
 - [地下二层](https://b02.zulipchat.com/)：基于Zulip的现代TRPG论坛
 - [免費開源TRPG中文化團隊](https://hazmole.github.io/Free-Open-TRPG-Translation/)：大量规则SRD的繁中翻译
+- [拟想世界工作室的规则SRD](https://trpgworld.com)
+	- 英雄百炼
+	- BITD
