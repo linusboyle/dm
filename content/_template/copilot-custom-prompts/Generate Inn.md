@@ -1,6 +1,10 @@
+---
+{"publish":true,"created":"2025-12-08T18:08:45.881+08:00","cssclasses":""}
+---
+
 <context>
 
-{[[worldbuilding/赤潮/战役设定]]}
+{[[B2 边陲堡/赤潮/战役设定]]}
 
 {}
 
