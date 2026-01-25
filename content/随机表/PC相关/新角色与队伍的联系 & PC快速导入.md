@@ -1,7 +1,8 @@
 ---
-{"publish":true,"tags":["table"],"cssclasses":""}
+date: 2025-03-18
+tags: 
+    - table
 ---
-
 # 新角色与队伍的联系 & PC快速导入
 
 `dice: [[新角色与队伍的联系 & PC快速导入^table]]`

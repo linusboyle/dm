@@ -1,7 +1,8 @@
 ---
-{"publish":true,"tags":["table"],"cssclasses":""}
+date: 2025-03-18
+tags: 
+    - table
 ---
-
 # PC初始物品背景与冒险引子
 
 `dice: [[PC初始物品背景与冒险引子^table]]`

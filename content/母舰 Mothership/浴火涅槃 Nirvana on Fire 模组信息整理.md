@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-11-15","tags":["prep"],"cssclasses":""}
+date: 2025-11-15
+tags: 
+- prep
 ---
-
 
 ## 基本信息
 

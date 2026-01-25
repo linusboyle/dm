@@ -1,11 +1,17 @@
 ---
-{"publish":true,"created":"2025-03-04","tags":["campaign/redtide/hex"],"cssclasses":""}
+date: 2025-03-04
+tags:
+  - campaign/redtide/hex
 ---
-
 
 # L1 Pollnacrom
 
 深碳观测站
 
-| § | 交互 |
-| - | -- |
+```dataview
+Table without id file.link AS "§", item.text as "交互"
+From !"_template" and #campaign/redtide/session 
+Flatten file.lists as item
+where contains(item.text, this.file.name)
+sort file.name DESC
+```

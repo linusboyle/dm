@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2025-12-17","cssclasses":""}
+date: 2025-12-17
+tags: 
 ---
-
 
 # 隐蔽深渊岛
 

@@ -1,7 +1,8 @@
 ---
-{"publish":true,"tags":["table"],"cssclasses":""}
+date: 2025-03-18
+tags: 
+    - table
 ---
-
 # Knave2E-Clothing
 
 `dice: [[Knave2E-Clothing^table]]`

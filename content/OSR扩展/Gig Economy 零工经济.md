@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2025-03-04","cssclasses":""}
+date: 2025-03-04
+tags: []
 ---
-
 
 译：GOoDOldMAn
 

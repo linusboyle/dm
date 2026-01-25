@@ -1,7 +1,9 @@
 ---
-{"publish":true,"tags":["campaign/ash/session"],"cssclasses":""}
+date: <% tp.file.creation_date("YYYY-MM-DD")%>
+summary: 
+tags: 
+- campaign/ash/session
 ---
-
 
 <%*
 let title = tp.file.creation_date("YYYY-MM-DD");
@@ -13,7 +15,7 @@ _%>
 ### 玩家行动
 
 - D1
-	- [[worldbuilding/灰烬余火/地点/Hex/0101]]
+	- [[0101]]
 	- [[0201]]
 
 ### XP

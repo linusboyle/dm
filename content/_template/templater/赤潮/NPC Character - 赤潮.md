@@ -1,7 +1,10 @@
 ---
-{"publish":true,"tags":["campaign/redtide/NPC"],"cssclasses":""}
+date: <% tp.file.creation_date("YYYY-MM-DD")%>
+description: 
+tags: 
+- campaign/redtide/NPC
+status:
 ---
-
 
 <%*
 let title = tp.file.title
@@ -15,6 +18,10 @@ _%>
 
 <% tp.file.cursor(0) %>
 
-| § | 交互 |
-| - | -- |
-`
+```dataview
+Table without id file.link AS "§", item.text as "交互"
+From !"_template" and #campaign/redtide/session 
+Flatten file.lists as item
+where contains(item.text, this.file.name)
+sort file.name DESC
+````

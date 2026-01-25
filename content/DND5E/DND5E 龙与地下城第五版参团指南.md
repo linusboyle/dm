@@ -1,7 +1,7 @@
 ---
-{"publish":true,"tags":["dnd5e"],"cssclasses":""}
+tags:
+  - dnd5e
 ---
-
 
 建设中
 

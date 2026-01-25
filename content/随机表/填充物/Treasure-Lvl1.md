@@ -1,7 +1,8 @@
 ---
-{"publish":true,"tags":["table"],"cssclasses":""}
+date: 2025-03-18
+tags: 
+    - table
 ---
-
 # Treasure-Lvl1
 
 `dice: [[Treasure-Lvl1^table]]`

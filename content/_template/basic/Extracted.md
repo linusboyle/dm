@@ -1,6 +1,10 @@
 ---
-{"publish":true,"title":{"{ newTitle }":null},"tags":["src/ose/OSEAF","ose/spell"],"cssclasses":""}
+title: {{newTitle}}
+date: {{date}}
+illusionist-spell-level: 6
+tags:
+  - src/ose/OSEAF
+  - ose/spell
 ---
-
 
 {{content}}

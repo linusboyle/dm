@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"团规 & 参团须知","created":"2024-09-09","cssclasses":""}
+title: 团规 & 参团须知
+date: 2024-09-09
 ---
 
-
-![[assets/界域漫游指南：JMJZR的TTRPG团规-20250112110049262.webp]]
+![[界域漫游指南：JMJZR的TTRPG团规-20250112110049262.webp]]
 
 # 界域漫游指南：月狂的TTRPG团规
 

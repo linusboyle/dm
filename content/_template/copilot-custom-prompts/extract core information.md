@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-08T18:08:46.691+08:00","cssclasses":""}
+copilot-command-context-menu-enabled: true
+copilot-command-slash-enabled: true
+copilot-command-context-menu-order: 10
+copilot-command-model-key: ""
+copilot-command-last-used: 0
 ---
-
 提取{}中最重要的信息，并将其组合成一个段落。不需要保证句子通顺和句子间的连接，只将最重要信息以最简介的方式表达出来，然后逗号分隔即可。不超过50字。

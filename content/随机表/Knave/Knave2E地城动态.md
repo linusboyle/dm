@@ -1,7 +1,8 @@
 ---
-{"publish":true,"tags":["table"],"cssclasses":""}
+date: 2025-03-18
+tags: 
+    - table
 ---
-
 # Knave2E地城动态
 
 `dice: [[Knave2E地城动态^table]]`

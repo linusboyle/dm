@@ -1,7 +1,8 @@
 ---
-{"publish":true,"tags":["table"],"cssclasses":""}
+date: 2025-03-18
+tags: 
+    - table
 ---
-
 # 关于NPC的传闻
 
 `dice: [[关于NPC的传闻^table]]`

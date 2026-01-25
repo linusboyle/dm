@@ -1,7 +1,7 @@
 ---
-{"publish":true,"created":"2025-11-15","cssclasses":""}
+date: 2025-11-15
+tags: 
 ---
-
 
 - [404の雾隐迷踪](https://www.404trpg.xyz/)：404的TRPG相关内容个人站
 	- MIST系列：迷雾之城，雾中奇谈

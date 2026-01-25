@@ -1,10 +1,13 @@
 ---
-{"publish":true,"created":"2025-12-08T18:08:45.758+08:00","cssclasses":""}
+copilot-command-context-menu-enabled: true
+copilot-command-slash-enabled: true
+copilot-command-context-menu-order: 10
+copilot-command-model-key: ""
+copilot-command-last-used: 0
 ---
-
 <context>
 
-{[[B2 边陲堡/赤潮/战役设定]]}
+{[[战役设定]]}
 
 Use the following information as inspiration only:
 
