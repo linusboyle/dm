@@ -54,7 +54,7 @@ views:
 
 ```
 
-%%## Carcass Crawler 杂志
+## Carcass Crawler 杂志
 
 ```base
 filters:
@@ -102,7 +102,6 @@ views:
       - file.name
 
 ```
-%%
 
 # **法术**
 
