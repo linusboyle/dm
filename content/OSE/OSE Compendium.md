@@ -23,65 +23,195 @@ aliases:
 
 ## 经典奇幻
 
-```dataview
-List from #ose/class and #src/ose/OSECF
+```base
+filters:
+  and:
+    - file.tags.contains("#src/ose/OSECF")
+    - file.tags.contains("#ose/class")
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: list
+    name: Table
+    order:
+      - file.name
+
 ```
 
 ## 高级奇幻
 
-```dataview
-list from #ose/class and #src/ose/oseaf 
+```base
+filters:
+  and:
+    - file.tags.contains("#ose/class")
+    - file.tags.contains("#src/ose/OSEAF")
+views:
+  - type: list
+    name: List
+    order:
+      - file.name
+
 ```
 
-## Carcass Crawler 杂志
+%%## Carcass Crawler 杂志
 
-```dataview
-list from #ose/class and #src/ose/CC 
+```base
+filters:
+  and:
+    - file.tags.contains("#ose/class")
+    - file.tags.contains("#src/ose/CC")
+views:
+  - type: list
+    name: List
+    order:
+      - file.name
+
 ```
 
 ## 其他正式发表的职业
 
-```dataview
-List from #ose/class and !#src/ose/CC and !#src/ose/OSECF and !#src/ose/OSEAF and !#src/ose/HB
+```base
+filters:
+  and:
+    - file.tags.contains("#ose/class")
+    - not:
+        - file.tags.contains("#src/ose/CC")
+        - file.tags.contains("#src/ose/OSECF")
+        - file.tags.contains("#src/ose/OSEAF")
+        - file.tags.contains("#src/ose/HB")
+views:
+  - type: list
+    name: List
+    order:
+      - file.name
+
 ```
 
 ## **玩家自制/未经测试**
 
-```dataview
-List from #ose/class and #src/ose/HB
+```base
+filters:
+  and:
+    - file.tags.contains("#ose/class")
+    - file.tags.contains("#src/ose/HB")
+views:
+  - type: list
+    name: List
+    order:
+      - file.name
+
 ```
+%%
 
 # **法术**
 
 ## 牧师法术
 
-```dataview
-Table without id cleric-spell-level as 环位, file.link as 法术 from  #ose/spell where cleric-spell-level >= 1 and !contains(file.path, "_template")  sort cleric-spell-level
+```base
+filters:
+  and:
+    - file.tags.contains("#ose/spell")
+    - '!file.path.contains("_template")'
+    - 'file.properties["cleric-spell-level"] >= 1'
+properties:
+  cleric-spell-level:
+    displayName: 环位
+  file.name:
+    displayName: 法术
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: cleric-spell-level
+      direction: ASC
+    order:
+      - cleric-spell-level
+      - file.name
 ```
 
 
 ## 魔法师法术
 
-```dataview
-Table without id magic-user-spell-level as 环位, file.link as 法术 from  #ose/spell where magic-user-spell-level >= 1 and !contains(file.path, "_template")  sort magic-user-spell-level
+```base
+filters:
+  and:
+    - file.tags.contains("#ose/spell")
+    - '!file.path.contains("_template")'
+    - 'file.properties["magic-user-spell-level"] >= 1'
+properties:
+  magic-user-spell-level:
+    displayName: 环位
+  file.name:
+    displayName: 法术
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: magic-user-spell-level
+      direction: ASC
+    order:
+      - magic-user-spell-level
+      - file.name
 ```
 
 ## 德鲁伊法术
 
-```dataview
-Table without id druid-spell-level as 环位, file.link as 法术 from  #ose/spell where druid-spell-level >= 1 and !contains(file.path, "_template")  sort druid-spell-level
+```base
+filters:
+  and:
+    - file.tags.contains("#ose/spell")
+    - '!file.path.contains("_template")'
+    - 'file.properties["druid-spell-level"] >= 1'
+properties:
+  druid-spell-level:
+    displayName: 环位
+  file.name:
+    displayName: 法术
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: druid-spell-level
+      direction: ASC
+    order:
+      - druid-spell-level
+      - file.name
 ```
 
 ## 幻术师法术
 
-```dataview
-Table without id illusionist-spell-level as 环位, file.link as 法术 from  #ose/spell where illusionist-spell-level >= 1 and !contains(file.path, "_template")  sort illusionist-spell-level
+```base
+filters:
+  and:
+    - file.tags.contains("#ose/spell")
+    - '!file.path.contains("_template")'
+    - 'file.properties["illusionist-spell-level"] >= 1'
+properties:
+  illusionist-spell-level:
+    displayName: 环位
+  file.name:
+    displayName: 法术
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: illusionist-spell-level
+      direction: ASC
+    order:
+      - illusionist-spell-level
+      - file.name
 ```
 
 ## 其他
 
-```dataview
-List from #ose/spell/list 
+```base
+filters:
+  and:
+    - file.tags.contains("#ose/spell/list")
+views:
+  - type: list
+    name: List
 ```
 
 [^2]: 高等奇幻允许种族和职业分离。我不使用这条可选规则，故不收录种族。

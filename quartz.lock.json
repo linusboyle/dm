@@ -1,6 +1,12 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "bases-page": {
+      "source": "github:quartz-community/bases-page",
+      "resolved": "https://github.com/quartz-community/bases-page.git",
+      "commit": "db114afd1005669b7440b8770603df767147e200",
+      "installedAt": "2026-08-12T08:54:24.460Z"
+    },
     "obsidian-plugin-excalidraw": {
       "source": "github:quartz-community/obsidian-plugin-excalidraw",
       "resolved": "https://github.com/quartz-community/obsidian-plugin-excalidraw.git",
