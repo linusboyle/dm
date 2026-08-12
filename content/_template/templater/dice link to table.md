@@ -1,0 +1,1 @@
+`dice: [[<%tp.file.cursor(0)%>^table]]`

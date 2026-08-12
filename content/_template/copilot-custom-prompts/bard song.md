@@ -1,0 +1,8 @@
+---
+copilot-command-context-menu-enabled: true
+copilot-command-slash-enabled: true
+copilot-command-context-menu-order: 10
+copilot-command-model-key: ""
+copilot-command-last-used: 0
+---
+根据{}中的内容，写一首吟游诗人歌谣用于DnD跑团

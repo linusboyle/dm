@@ -1,0 +1,27 @@
+---
+date: <% tp.file.creation_date("YYYY-MM-DD")%>
+description: 
+tags: 
+- campaign/ash/NPC
+status:
+---
+
+<%*
+let title = tp.file.title
+if (title.startsWith("Untitled") ) {
+	title = await tp.system.prompt("File name: ")
+} 
+await tp.file.move("/worldbuilding/灰烬余火/角色/" + title)
+_%>
+
+# <% title %>
+
+<% tp.file.cursor(0) %>
+
+```dataview
+Table without id file.link AS "§", item.text as "交互"
+From "worldbuilding" and #campaign/ash/session 
+Flatten file.lists as item
+where contains(item.text, this.file.name)
+sort file.name DESC
+```
