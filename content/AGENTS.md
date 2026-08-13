@@ -3,6 +3,7 @@
 
 1. Use Obsidian CLI to determine currently opened file, if needed.
 2. It is very possible that I modify notes. Always read content of a note, instead of relying on cached text in conversation history.
+3. the `AGENTS.md` of the subdirectories be read before modifying subdirectory projects
 
 ## Converting a source to Rollable Random Table
 
