@@ -1,4 +1,8 @@
-Use Obsidian CLI to determine currently opened file, if needed.
+
+## General Guidelines
+
+1. Use Obsidian CLI to determine currently opened file, if needed.
+2. It is very possible that I modify notes. Always read content of a note, instead of relying on cached text in conversation history.
 
 ## Converting a source to Rollable Random Table
 
@@ -17,4 +21,4 @@ Put the table at the end, and add an inline dice roll.  Example:
 ^table
 ```
 
-If there is already table(s) in the same file, change the block-id ('table') to avoid collison
+If there is already table(s) in the same file, change the block-id ('table') to avoid collision.
