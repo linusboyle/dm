@@ -44,6 +44,7 @@ views:
 ## Idea
 
 1. 22C 电梯的电梯井藏着一件神器
-2. 到达钟摆站并休息->从冷藏室醒来
-3. 团灭同理
-4. 潜压检定在每次游戏结束时进行，私下告知（结合[[Memory Generation Table]]）
+2. 22C 'Olham was here' -> 'PC name was here'
+3. 到达钟摆站并休息->从冷藏室醒来
+4. 团灭同理
+5. 潜压检定在每次游戏结束时进行，私下告知（结合[[Memory Generation Table]]）
