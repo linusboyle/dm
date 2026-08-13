@@ -3,7 +3,8 @@ title: 战役状态文档（GD）
 date: 2026-08-12
 tags:
 aliases:
-gd_time: 2100-01-01T09:00:00
+gd_day: 1
+gd_time: 9:00
 ---
 
 ## PC
