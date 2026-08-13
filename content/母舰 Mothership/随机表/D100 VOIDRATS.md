@@ -5,7 +5,10 @@ aliases: []
 tags: []
 ---
 
-`dice: [[D100 VOIDRATS^table1]]`
+- Name : `dice: [[D100 VOIDRATS^table1]]`
+- Occupation `dice: [[D100 VOIDRATS^table2]]`
+- Looks: `dice: [[D100 VOIDRATS^table3]]`
+- Want: `dice: [[D100 VOIDRATS^table4]]`
 
 | dice: 1d100 | D100 Names                   |
 | ----------- | ---------------------------- |
@@ -111,7 +114,6 @@ tags: []
 | 100         | FNL.SCR                      |
 ^table1
 
-`dice: [[D100 VOIDRATS^table2]]`
 
 | dice: 1d100 | D100 Occupations                 |
 | ----------- | -------------------------------- |
@@ -217,7 +219,6 @@ tags: []
 | 100         | Disposal Specialist              |
 ^table2
 
-`dice: [[D100 VOIDRATS^table3]]`
 
 | dice: 1d100 | D100 Looks                                       |
 | ----------- | ------------------------------------------------ |
@@ -323,7 +324,6 @@ tags: []
 | 100         | “XXX” scarification on cheekbones                |
 ^table3
 
-`dice: [[D100 VOIDRATS^table4]]`
 
 | dice: 1d100 | D100 Wants to...                         |
 | ----------- | ---------------------------------------- |
