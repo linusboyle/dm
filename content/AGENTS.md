@@ -9,6 +9,8 @@
 
 First locate a markdown file that matches the table theme. Otherwise create one. 
 
+When converting, do not add or modify anything, just keep the entries as is. 
+
 Put the table at the end, and add an inline dice roll.  Example:
 
 ```
