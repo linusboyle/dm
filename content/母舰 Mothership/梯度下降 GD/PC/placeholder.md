@@ -3,7 +3,7 @@ title: placeholder
 date: 2026-08-13
 tags:
 aliases:
-bends:
+bends: "0"
 stress: 2
 class: 仿生人
 player: Moonmadness

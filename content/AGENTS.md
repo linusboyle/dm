@@ -9,7 +9,7 @@
 
 First locate a markdown file that matches the table theme. Otherwise create one. 
 
-When converting, do not add or modify anything, just keep the entries as is. 
+When converting, do not add or modify anything, just keep the entries as is.  Exception: dice formula in entry should be wrapped by `dice: <formula>` for the plugin to recognize it.
 
 Put the table at the end, and add an inline dice roll.  Example:
 
