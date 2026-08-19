@@ -34,6 +34,7 @@ views:
       - stress
       - bends
       - status
+      - active
     sort:
       - property: status
         direction: ASC
@@ -116,9 +117,5 @@ views:
 
 ## 灵光一现
 
-1. 22C 电梯的电梯井藏着一件神器
-2. 任何装备[[阿卡迪]]都会以5倍加价回收，10倍加价出售
-3. 22C 'Olham was here' -> 'PC name was here'
-4. 到达钟摆站并休息->从冷藏室醒来
-5. 团灭同理
-6. 潜压检定在每次游戏结束时进行，私下告知（结合[[Memory Generation Table]]）
+1. 团灭->从冷藏室醒来
+2. 潜压检定在每次游戏结束时进行，私下告知（结合[[Memory Generation Table]]）

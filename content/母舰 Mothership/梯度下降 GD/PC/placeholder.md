@@ -8,6 +8,7 @@ stress: 2
 class: 仿生人
 player: Moonmadness
 status: 🪦
+active: true
 ---
 
 
