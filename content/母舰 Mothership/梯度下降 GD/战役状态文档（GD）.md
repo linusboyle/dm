@@ -5,6 +5,7 @@ tags:
 aliases:
 gd_day: 1
 gd_time: 9:00
+coin: "92000"
 ---
 
 ## PC
@@ -36,6 +37,8 @@ views:
       - status
       - active
     sort:
+      - property: active
+        direction: DESC
       - property: status
         direction: ASC
 
