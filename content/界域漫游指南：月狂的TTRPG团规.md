@@ -49,6 +49,10 @@ TTRPG依赖于玩家和主持人的合作，而这份规范的目标是达成共
 - 母舰
 - OSE
 
+### Log & 战报
+
+你可以在我的[果园专区](https://www.goddessfantasy.net/bbs/index.php?board=2193.0)和本站找到大部分我的带团记录/战报。
+
 ## 玩家准则
 
 ### 跑团礼仪
