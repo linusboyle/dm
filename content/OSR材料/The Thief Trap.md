@@ -9,7 +9,7 @@ tags: []
 
 The Thief Trap is a dungeon designed by villagers to kill thieves, highwaymen, and bandits. It is a well known location, which the local town deceives others to think that it holds all of their treasure.
 
-## The adventurers are not thieves.
+The adventurers are not thieves.
 
 Instead, they are contracted to scout out the dungeon, repair & reset the traps, and remove the remains of the thieves who died there.
 
@@ -23,11 +23,14 @@ The dungeon is filled with creatures taking refuge, or by thieves who never left
 
 The traps here are dangerous. If players reset a trap, they may have to walk back through it. All traps are dangerous, and require a check to get through unscathed.
 
-## First Floor
+# First Floor
 
-TODO 1: Throw thief remains into Pit 2: Reset all 5 Traps3: Go down Stairs. List 4: Clear out Vagabonds!!!
+TODO List:
 
-## Floor 1
+1. Throw thief remains into Pit
+2. Reset all 5 Traps
+3. Go down Stairs.
+4. Clear out Vagabonds!!!
 
 ## Incursions
 
@@ -39,83 +42,80 @@ Mimic: A mimic disguised as a Treasure Chest nests in the Fake Treasure. Just le
 
 ## Locations
 
-## Entrance
+### Entrance
 
-An hidden entrance in the first place you would look.
+A hidden entrance in the first place you would look.
 
-## Describe:
+#### Describe:
 
--The waterfall pouring into a fish-filled river, it is a disguised entrance.
+- The waterfall pouring into a fish-filled river, it is a disguised entrance.
+- A large empty hall beyond.
+- A central dais with registry. (Trap and Bait)
+- Three exits, the left one open. (To Pendulums)
 
--A large empty hall beyond.
+### Pendulums
 
--A central dias with registry. (Trap and Bait)
+Swinging axes make safe passage dicey — and leaves thieves diced.
 
--Three exits, the left one open. (To Pendulums)
+#### Describe:
 
-## Pendulums
+- Hungry bear munching on bones. (Enemy)
+- Loosely hanging pendulum axes. (Disabled)
+- Bones of three thieves.
 
-Swinging axes make safe passage dicey- and leaves thieves diced.
-
-## Describe:
-
--Hungry bear munching on bones. (Enemy)
-
--Loosely hanging pendulum axes.
-
-(Disabled)
-
--Bones of three thieves.
-
-## Drowning Chamber
+### Drowning Chamber
 
 The door slams, water fills the chamber.
 
-## Describe
+#### Describe:
 
--Water, fish, and corpses flowing out as they open the door. -Dripping pipes. (Trap) -A collection of dangling keys attached to strings on the walls. (Trigger)
+- Water, fish, and corpses flowing out as they open the door.
+- Dripping pipes. (Trap)
+- A collection of dangling keys attached to strings on the walls. (Trigger)
 
-## Spike Floor
+### Spike Floor
 
 The false promise of safe passage, every third step ejects spikes from the floor.
 
-## Describe:
+#### Describe:
 
--A long room of tall spikes jetting from the floor.
+- A long room of tall spikes jetting from the floor.
+- A tangle of iron and flesh, with no safe way across.
+- The dead move subtly. (undead)
+- A lever on the far side. (Trap reset)
 
--A tangle or iron and flesh, with no safe way across.
+### False Treasury
 
--The dead move subtly. (undead) -A lever on the far side. (Trap reset)
+An end to the dungeon for the dim-witted thieves.
 
-## False Treasury
+#### Describe:
 
-An end to the dungeon for the dim witted thieves.
+- Three burned chests, all empty.
+- One unburned chest (Mimic)
+- Three short daises (Trigger)
+- A wall of clogged spouts. (Trap)
+- An obviously secret door.
 
-## Describe
+### Boulder Barbell
 
--Three burned chests, all empty. -One unburned chest (Mimic) -Three short dias (Trigger) -A wall of clogged spouts. (Rrap) -An obviously secret door.
+Run or stay — you will be crushed under rolling stone.
 
-## Boulder Barbell
+##### Describe:
 
-Run or stay- you will be crushed under rolling stone.
-
-## Describe:
-
--A pair of boulders. (Trap)
-
--Shattered bones beneith.
-
--Two narrow passages ways that slope upwards.
-
--A dias at the top of each slope. (Reset)
-
--A stairway leading down
+- A pair of boulders. (Trap)
+- Shattered bones beneath.
+- Two narrow passageways that slope upwards.
+- A dais at the top of each slope. (Reset)
+- A stairway leading down
 
 # Second Floor
 
-To 1: Throw thief remains into Pit Do 2: Reset all 3 Traps3: Repair Bridge? List 4: Go down Stairs.
+TODO List:
 
-## Floor 2
+1. Throw thief remains into Pit
+2. Reset all 3 Traps
+3. Repair Bridge?
+4. Go down Stairs.
 
 ## Incursions
 
@@ -125,116 +125,164 @@ Gelatinous Cube: The ooze has left the slide and moved to the Arrow Trap. It has
 
 ## Locations
 
-## False Rest Room
+### False Rest Room
 
 A promise of safety. Rest now and sleep forever.
 
-## Describe
+#### Describe:
 
--A rock carved room. -Disguised keyhole in the wall. -Torches and open flames are extinguished, the PCs are left in pure darkness.
+- A rock-carved room.
+- Disguised keyhole in the wall.
+- Torches and open flames are extinguished, the PCs are left in pure darkness.
 
-## Slippery Slide
+### Slippery Slide
 
 One slip and you’re ooze food.
 
-## Describe:
+#### Describe:
 
--A smooth ramp leading to a pit. (Trap) -The ground is dry, not slippery. -The pit filled with iron armor, but no ooze. (Bring ooze to Reset)
+- A smooth ramp leading to a pit. (Trap)
+- The ground is dry, not slippery.
+- The pit filled with iron armor, but no ooze. (Bring ooze to Reset)
 
-## Hammer Fall
+### Hammer Fall
 
 The door leads to being crushed.
 
-## Describe:
+#### Describe:
 
--A huge dangling hammer. (Trap) -A peephole in the wall. -A door blocked by the hammer.
+- A huge dangling hammer. (Trap)
+- A peephole in the wall.
+- A door blocked by the hammer.
 
-## Natural Chasm
+### Natural Chasm
 
 A hole for crossing, and falling.
 
-## Describe
+#### Describe:
 
--A bridge in need of repairs. -A chasm falling beyond sight. -Sounds of chewing from far below, in the darkness. (Goblins Cannibals)
+- A bridge in need of repairs.
+- A chasm falling beyond sight.
+- Sounds of chewing from far below, in the darkness. (Goblin Cannibals)
 
-## Rest Room
+### Rest Room
 
 A secret room for resting.
 
-## Describe
+#### Describe:
 
--Stalagmites rising up. -An open door (To Arrow Trap) -Light coming from an unmarked cavern. (Leads to the cavern)
+- Stalagmites rising up.
+- An open door (To Arrow Trap)
+- Light coming from an unmarked cavern. (Leads to the cavern)
 
-## Cavern
+### Cavern
 
 Not on the map, shouldn’t exist.
 
-## Describe
+#### Describe:
 
--Daylight in the distance, an escape from the trap. -A nesting dragon whelp with no teeth, its flame breath is its only weapon. -Charred remains of a lion.
+- Daylight in the distance, an escape from the trap.
+- A nesting dragon whelp with no teeth, its flame breath is its only weapon.
+- Charred remains of a lion.
 
-## Arrow Trap
+### Arrow Trap
 
 Skewered with one wrong step.
 
-## Describe
+#### Describe:
 
--A Floating skeleton. (Gelatinous Cube) -Empty arrow shooters. (Trap) -Each step is a pressure plate. (Trigger) -A stairway down.
+- A Floating skeleton. (Gelatinous Cube)
+- Empty arrow shooters. (Trap)
+- Each step is a pressure plate. (Trigger)
+- A stairway down.
 
-## Third Floor
+# Third Floor
 
-1: No one has been this deep in a long time. Just check the traps, and watch out for whatever carrion feasts on the remains.
-
-## Floor 3
+No one has been this deep in a long time. Just check the traps, and watch out for whatever carrion feasts on the remains.
 
 ## Incursions
 
 Goblin Cannibals: This tribe got trapped down here years ago, and feed off the flesh of those thrown in the pit. Assemble the Dwarf Golem to easily dispatch them. While most are in the Bottom of Pit, they are in other rooms.
 
-Assembling a Dwarf: The stone dwarf can be assembled by placing all of its pieces onto the stone Dias. (G) The left arm is at the Illusory Bridge, the Right arm in the Magnet Pit, and the head is with the Stone Singers. Once assembled, it will attack everyone, including the players, unless they say “Thrak Zol Khazad.”
+Assembling a Dwarf: The stone dwarf can be assembled by placing all of its pieces onto the stone dais. (G) The left arm is at the Illusory Bridge, the right arm in the Magnet Pit, and the head is with the Stone Singers. Once assembled, it will attack everyone, including the players, unless they say “Thrak Zol Khazad.”
 
 ## Locations
 
-Magic Mouth and Labyrinth A guide to certain doom.
+### Magic Mouth and Labyrinth
 
--A talkative magic mouth that tells you to enter into the labrinth. -The tight corridors of a maze.
+A guide to certain doom.
 
-Bottom of Pit They want you over for dinner.
+#### Describe:
 
-## Describe
+- A talkative magic mouth that tells you to enter into the labyrinth.
+- The tight corridors of a maze.
 
--A open, hewn stone chamber -The sound of chewing and eating -Goblins, consuming flesh. -A stone dwarf, with its arms and head gone. -A mirror that shows you what you most desire, a single goblin stares into it while drooling.
+### Bottom of Pit
 
-## Illusory Bridge
+They want you over for dinner.
+
+#### Describe:
+
+- An open, hewn stone chamber
+- The sound of chewing and eating
+- Goblins, consuming flesh.
+- A stone dwarf, with its arms and head gone.
+- A mirror that shows you what you most desire, a single goblin stares into it while drooling.
+
+### Illusory Bridge
 
 A path to ruin.
 
-## Describe
+#### Describe:
 
--Torn clothing thrown along the path to dispell the illusion. -Sleeping goblins on torn clothes. -Stone Golem’s left arm held by sleeping goblin.
+- Torn clothing thrown along the path to dispel the illusion.
+- Sleeping goblins on torn clothes.
+- Stone Golem’s left arm held by a sleeping goblin.
 
-## Magnet Pit
+### Magnet Pit
 
 An attractive trap.
 
-## Describe
+#### Describe:
 
--A large, natural lodestone -Discarded iron weapons and armor in a pit with the stone. -The Stone Golem’s right arm inside the pit. -Goblins sharing ghost stories.
+- A large, natural lodestone
+- Discarded iron weapons and armor in a pit with the stone.
+- The Stone Golem’s right arm inside the pit.
+- Goblins sharing ghost stories.
 
-## Stone Singers Voices of Fire
+### Stone Singers
 
-## Describe
+Voices of Fire
 
--Stone statues shooting flame at regular intervals. -A goblin chef, using flames to cook his meals. -The head of the Stone Dwarf.
+#### Describe:
 
-## Poison Pins
+- Stone statues shooting flame at regular intervals.
+- A goblin chef, using flames to cook his meals.
+- The head of the Stone Dwarf.
+
+### Poison Pins
 
 A rogue’s nightmare.
 
-## Describe
+#### Describe:
 
--Chamber of open doors. -empty poison jars integrated into each door. -Stacks of weapons made of bone. -A goblin bone carver distracted by his work.
+- Chamber of open doors.
+- Empty poison jars integrated into each door.
+- Stacks of weapons made of bone.
+- A goblin bone carver distracted by his work.
 
 ## Item List
 
--Ten Dozen Arrows -Three Jar Butter Grease -Two stone of fake treasure -Five Score yards of hemp rope -Six Wood Planks -Seventy Nails -Stone Hammer -Long iron Needle -Iron Brush -Iron Bucket -Iron Shovel -Skeleton Key -Six quarts Serpent’s Venom
+- Ten Dozen Arrows
+- Three Jar Butter Grease
+- Two stones of fake treasure
+- Five Score yards of hemp rope
+- Six Wood Planks
+- Seventy Nails
+- Stone Hammer
+- Long iron Needle
+- Iron Brush
+- Iron Bucket
+- Iron Shovel
+- Skeleton Key
+- Six quarts of Serpent’s Venom
