@@ -41,7 +41,6 @@ The creativity of the referee comes by not forcing his players to follow a prede
 
 The result is a campaign where the players feel they are forging their character’s destiny within a living, breathing world. It will not only be fun and adventurous, but also filled with surprises. Consequences will accumulate and spin the campaign into unexpected directions.
 
-
 # Overview
 
 Blackmarsh lies on the fringe of civilization, located around a large bay on the western edge of the Grey Sea. For a brief time, the frontiers of the great empires encompassed the region, but they retreated centuries ago. Only a few outposts of civilization remain amid the dangers of the encroaching wilderness.
@@ -57,7 +56,6 @@ Since the Shattering, the frontier has slowly retreated. In place of the ordered
 In the days when man knew only the working of stone and fought for their existence against the orc and the goblin, the sky turned to ash and down fell the fiery mountain onto the land. The world tore open and the grey waters rushed in. Those who survived the impact were lost as boiling clouds rushed out in all directions leaving a wasteland in its wake.
 
 The Mountain That Fell left a gift; magic. Near and far, those of learning and strong of heart discovered new powers to shape the world. In the desolation around the Smoking Bay the adventurous found viz, magic in physical form. And there was more, scattered amid the landscape were strange artifacts and stranger creatures that survived The Mountain That Fell. For a time men, dwarves, orc, goblins, and other races braved the dangers and fought each other in the wastelands. Then the elves came into Blackmarsh expelled the feuding races, drove the monsters out, and healed the land.
-
 
 ## Coinage
 
@@ -77,11 +75,9 @@ One viz is worth 100d towards the creation of a magic item. The referee can use 
 
 To the north of Blackmarsh lies the Wild North, a cold land of dark fir and taiga. The mighty Belaya River runs through the heart of the land. Scattered through the Wild North are the human Rurasin city-states.
 
-
 ## Southland
 
 Bordering Blackmarsh to the south is the region known as Southland. It lies on the frontier of the Vasa Province of the Grand Kingdom and was recently opened for settlement. The Kingdom of Bolzak in the White Mountains is the birthplace of many dwarves in Blackmarsh.
-
 
 ## Adaption Notes
 
@@ -99,7 +95,6 @@ The Blackmarsh Rangers are designed as an organization indigenous to the area. I
 
 For the House of the Raven, a referee could use the dark elves from other fantasy roleplaying games. As presented in Blackmarsh, they are a group who believe that the elves should rule and enslave other races. This is considered abhorrent to the cultures of Blackmarsh.
 
-
 # Geography
 
 The aftermath of The Mountain That Fell has had a major impact on the region’s geography. The impact caused many cracks and shifts in the land, forming the numerous swamps and estuaries of the region. Even after two thousand years, and the best efforts of the elves, much of the shoreline is a confusing maze of waterways.
@@ -115,8 +110,6 @@ The western slopes of these high mountains took the brunt of the debris ejected 
 ## Driftwood Isle
 
 The currents of the Grey Sea caused this island to accumulate a large amount of driftwood as well as other objects from the wind and tide. Along the southeast peninsula, the scattered remains of a ship can be found. Beneath a pile of seaweed is a body of a young man dressed in the style of a high noble of the Grand Kingdom. His hand clutches a necklace with the royal seal.
-
-
 
 ## Lanis River
 
@@ -146,11 +139,9 @@ The Mountain That Fell created the Smoking Bay and for a century afterwards, pil
 
 The impact of The Mountain That Fell fractured this region forming the marshes that give the area its name. The marshes are fifteen miles north-south and over fifty miles east-west. The impact left several large lakes connected by a confusing maze of waterways and bogs. It offers a convenient place to hide for those who want keep their activities away from prying eyes. The water is black in color caused by the minerals leeching from the surrounding soil and vegetation.
 
-
 ## The Crimson Hills
 
 Over the centuries, numerous orc tribes conquered and were conquered among these hills. Their continual conflict has caused this region to be known as the Crimson Hills. The two main tribes are the Bateaters (1911) and the Bloodcrushers (2207), but there are several smaller orc clans and families hiding and hunting in the hills.
-
 
 ## The Grey Sea
 
@@ -180,12 +171,12 @@ Farther south, the Westwall forms the western boundary of the Vasa Province of t
 
 # Rumors
 
-| Roll | Rumor                                                                                                                                                                        | 
+| Roll | Rumor                                                                                                                                                                        |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | In Strangeholm, the halflings have uncovered a powerful sword of law (F)                                                                                                     |
 | 2    | Goblins roam the Pendar Mountains (T)                                                                                                                                        |
 | 3    | Be careful wandering the Greywoods, the boundary between worlds is weak there (T)                                                                                            |
-| 4    | The elves have wild parties of debauchery in Castle Blackmarsh(F)                                                                                                            |
+| 4    | The elves have wild parties of debauchery in Castle Blackmarsh (F)                                                                                                            |
 | 5    | The Duke of the Ostrobards is noted for his wild parties (T)                                                                                                                 |
 | 6    | The Wizard of the Isle will allow any who tells him a riddle he can’t solve to stay on The Mountain That Fell (F)                                                            |
 | 7    | Lord Mazardan of Olden Hold is offering 1,000 GP for any viz brought to him (partially False, he will offer 200 GP)                                                          |
@@ -203,32 +194,49 @@ Farther south, the Westwall forms the western boundary of the Vasa Province of t
 | 19   | Most of the magic-users from the time of the Bright Empire lived in conclaves south of the Black Marshes. Their ruined homes are dangerous but many are remain untouched (T) |
 | 20   | The Duke of the Ostrobards is going to hold a grand tourney the first in the Blackmarsh region (F)                                                                           |
 
-
 # Locales
 
-0105 These are the ruins of Daur Anthar, the hold of the famed Dwarven Ironmaster, Gamli Norreshield. It is here that he found a vein of metal rich in viz and researched its use in the forging of arms and armor. When the hold was abandoned several hundred years ago, an earth elemental (HD 12) remained to guard the ruins.
+## 0105
 
-0107 A band of brigands are bent on vengeance against the Rangers of Blackmarsh and are marching on Blackoak Castle. Sigrun the Boneless (Ftr9), two captains (Ftr6,5), and three lieutenants (Ftr4) lead 115 brigands.
+These are the ruins of Daur Anthar, the hold of the famed Dwarven Ironmaster, Gamli Norreshield. It is here that he found a vein of metal rich in viz and researched its use in the forging of arms and armor. When the hold was abandoned several hundred years ago, an earth elemental (HD 12) remained to guard the ruins.
 
-0211 Viewing the Halflings of Newcombe as easy prey, King Graptar the Stupendous (treat as a hobgoblin and wielding a +1 warhammer) moved 150 goblins into the Pendar Mountains where they established their new base. Surrounding the king are twelve guards (treat as hobgoblins) who protect Graptar against any usurpers.
+## 0107
 
-0214 A mother black dragon (old, HD 8) and her child (young, HD 7) have slaughtered a herd of deer and are in a meadow consuming the carcasses.
+A band of brigands are bent on vengeance against the Rangers of Blackmarsh and are marching on Blackoak Castle. Sigrun the Boneless (Ftr9), two captains (Ftr6,5), and three lieutenants (Ftr4) lead 115 brigands.
 
-0217 Oldan Hold, Pop: 342, Dwarf; Align Lawful;
+## 0211
 
-Ruler: Lord Mazardan, Ftr6, Lawful, Dwarf; Resource: Market.
+Viewing the Halflings of Newcombe as easy prey, King Graptar the Stupendous (treat as a hobgoblin and wielding a +1 warhammer) moved 150 goblins into the Pendar Mountains where they established their new base. Surrounding the king are twelve guards (treat as hobgoblins) who protect Graptar against any usurpers.
+
+## 0214
+
+A mother black dragon (old, HD 8) and her child (young, HD 7) have slaughtered a herd of deer and are in a meadow consuming the carcasses.
+
+## 0217 Oldan Hold
+
+Pop: 342, Dwarf; Align Lawful; Ruler: Lord Mazardan, Ftr6, Lawful, Dwarf; Resource: Market.
 
 Oldan Hold is the northernmost outpost of the Dwarven Kingdom of Bolzak. It was founded as a base for the search of viz by the Ironmasters of Bolzak. It’s become an entrepôt where merchants all over Blackmarsh come and trade with the dwarves. There are 5d10 foreign merchants (human, elf, halflings) with their guards present.
 
 Lord Mazardan was one of the most successful explorers and appointed as Lord of Oldan Hold two decades ago. He is also High Captain of the Northern Company of Adventurers. An association of explorers looking for sources of viz. Every year he hosts a grand banquet in the company hall where members and their friends eat and tell tales of their discoveries.
 
-0302 The inside of this bend on the Rednut River is riddled with giant snake dens. Every 100 yards there is a 3 in 6 chance of encountering either a hole to a den (1-4) or a giant snake (HD 2)(5-6).
+## 0302
 
-0309 This crumbling wizard’s keep dates back a thousand years to the time of the Bright Empire. An experiment gone awry left the keep infested with numerous ochre jellies (HD 5), including one very large black pudding (HD 10, 60 hp) in the old great hall.
+The inside of this bend on the Rednut River is riddled with giant snake dens. Every 100 yards there is a 3 in 6 chance of encountering either a hole to a den (1-4) or a giant snake (HD 2)(5-6).
 
-0318 A herd of mean tempered wild boars (HD 3) roam the slopes of the White Mountains here. Even hunters from Olden Hold (see 0217) avoid this valley. There is a 1 in 4 chance of encountering 4d4 boars per hour while in the region.
+## 0309
 
-0407 Blackoak Castle; Ruler: Sinerian, Ftr4/Mu6 L, Elf; Garrison: 50 elves, 60 men, 40 dwarves, 20 halflings. This castle is the headquarters of the Blackmarsh Rangers, an organization dedicated to preserving peace between the races and keeping Blackmarsh free from the depredations of monsters. They consider the Brotherhood of the Raven their mortal enemy (see 1807). The Temple of Thor at Castle Blackmarsh is an ally especially when monsters are involved.
+This crumbling wizard’s keep dates back a thousand years to the time of the Bright Empire. An experiment gone awry left the keep infested with numerous ochre jellies (HD 5), including one very large black pudding (HD 10, 60 hp) in the old great hall.
+
+## 0318
+
+A herd of mean tempered wild boars (HD 3) roam the slopes of the White Mountains here. Even hunters from Olden Hold (see 0217) avoid this valley. There is a 1 in 4 chance of encountering 4d4 boars per hour while in the region.
+
+## 0407 Blackoak Castle
+
+Ruler: Sinerian, Ftr4/Mu6 L, Elf; Garrison: 50 elves, 60 men, 40 dwarves, 20 halflings.
+
+This castle is the headquarters of the Blackmarsh Rangers, an organization dedicated to preserving peace between the races and keeping Blackmarsh free from the depredations of monsters. They consider the Brotherhood of the Raven their mortal enemy (see 1807). The Temple of Thor at Castle Blackmarsh is an ally especially when monsters are involved.
 
 The Blackmarsh Rangers were founded by the legendary Geran Blackoak fifteen centuries ago during the invasion of the Ostrobard barbarians. Geran Blackoak was instrumental in restoring the peace. While he failed to unite them politically, a tradition of mutual assistance took hold among the races.
 
@@ -236,62 +244,83 @@ The castle serves as the primary training ground for new rangers recruits as wel
 
 High Captain Sinerian has been the leader for over a century and expects to serve for several decades more. Her greatest challenges have been dealing with the raids of the Vasan Vikings from across the Grey Sea, and the rising power of the Grand Kingdom to the southeast. If the Rurasin city-states to the north unite, it may prove another threat to the peace.
 
+## 0409 Strangeholms
 
-
-## 0409 Strangeholms, Pop: 292, Halfling; Align: Lawful;
-
-## Ruler: Mayor Holbein Redleaf, 0-lvl, Lawful; Resource: Farm.
+Pop: 292, Halfling; Align: Lawful; Ruler: Mayor Holbein Redleaf, 0-lvl, Lawful; Resource: Farm.
 
 Strangeholms is a halfling village that surrounds a large hill south of the Holms Water. The region around the village has rich soil for farming and the halflings supply much of the food needed by Castle Blackoak (see 0407).
 
 Mayor Holbein, along with his constable, keeps the peace, but struggles when the occasional monster emerges from the ruined wizard keep (see 0309) to the northwest. In addition to being mayor, Holbein is a skilled painter and has had his work commissioned several times by the wealthy and nobles of Blackmarsh.
 
-0413 A tribe of 190 kobolds dominate the forest north of the lake. High Chief Cruk rules the kobolds with the assistance of six other chiefs of the tribe (treat as goblins). He also leads the kobolds in the worship of a strange glowing sword of law in an open grove at the center of the forest. When the kobolds first arrived, a century ago, they tried to take the sword, but it killed any who touched it.
+## 0413
 
-0415 These islands are known as the three sisters. Each island is the home of a nixie (HD 1, charm) and the three of them are rival sisters. They use their Charm Person ability to compete among themselves for the most handsome captives. They are not above conspiring with outsiders if it means that one sister is denied her prize.
+A tribe of 190 kobolds dominate the forest north of the lake. High Chief Cruk rules the kobolds with the assistance of six other chiefs of the tribe (treat as goblins). He also leads the kobolds in the worship of a strange glowing sword of law in an open grove at the center of the forest. When the kobolds first arrived, a century ago, they tried to take the sword, but it killed any who touched it.
 
-0515 This is the dwelling place of the Lake King (HD 5, charm) and his court of 80 nixies (HD 1, charm). He will release anybody captured if they will kidnap his quarreling daughters and bring them home to him. (see 0515)
+## 0415
 
-0605 A weak wall exists between this world and other planes of existence in the elven forest. Here the fabric of reality has been torn, 48 elves are fighting a 12 flame demons (treat as 8 HD Fire Elementals). Several dozen more elves surround the conflict trying to contain the blaze started by the fight.
+These islands are known as the three sisters. Each island is the home of a nixie (HD 1, charm) and the three of them are rival sisters. They use their Charm Person ability to compete among themselves for the most handsome captives. They are not above conspiring with outsiders if it means that one sister is denied her prize.
 
-## 0608 Ashdown, Pop: 121, Mixed; Align: Lawful;
+## 0515
 
-Ruler: Councilor Neera Dane, Ftr6, Lawful; Resource: Market. Ashdown is home to many retired rangers as well as the spouses and children of rangers currently on duty. Neera Dane, a retired ranger captain leads the village council and operates under the authority of the high captain of the rangers. She and the villagers will gladly aid any friend and ally of the rangers. Halflings, men, dwarves, and elves can be found living here.
+This is the dwelling place of the Lake King (HD 5, charm) and his court of 80 nixies (HD 1, charm). He will release anybody captured if they will kidnap his quarreling daughters and bring them home to him. (see 0515)
 
+## 0605
 
-0610 Greenton, Pop: 642, Halfling; Align: Lawful;
+A weak wall exists between this world and other planes of existence in the elven forest. Here the fabric of reality has been torn, 48 elves are fighting a 12 flame demons (treat as 8 HD Fire Elementals). Several dozen more elves surround the conflict trying to contain the blaze started by the fight.
 
-Ruler: Ealdorman Paddock Ryburn, Lawful; Resource: Farm. Greenton is the chief settlement of the Newcombe Halflings and an important market for the surrounding farms. Here merchants from across Blackmarsh flock to purchase grain and other produce to export back to their home regions. When in residence, the merchants stay in a hamlet just outside of Greenton known as Sack. So named from the stuffed woolsacks the merchants sit on while bidding or negotiating prices. Ealdorman Paddock maintains a large contingent of 20 constables led by Sherriff Barris Ironoak to keep the merchants in their place.
+## 0608 Ashdown
 
-0616 Ruchill Burn runs through a 50’ deep gorge for over a half mile. During the Bright Empire, magic-users established a conclave here to harvest the viz found within the cliffs of the gorge. Two centuries after the empire’s fall, the conclave was abandoned. The cliffs are honeycombed with several levels of the conclave. Many of the levels span both sides of the gorge with bridges connecting them. Not all of them are safe.
+Pop: 121, Mixed; Align: Lawful; Ruler: Councilor Neera Dane, Ftr6, Lawful; Resource: Market.
 
-0702 Six trolls (HD 6, Regen) feast on corpses from a slain merchant caravan from Muncaester (see 1305). The smoke from their cooking fire can be seen from two miles away.
+Ashdown is home to many retired rangers as well as the spouses and children of rangers currently on duty. Neera Dane, a retired ranger captain leads the village council and operates under the authority of the high captain of the rangers. She and the villagers will gladly aid any friend and ally of the rangers. Halflings, men, dwarves, and elves can be found living here.
 
-0712 This ruined tower was once used as a lighthouse. It guided ships to the mouth of the Lanis River. Built during the Bright Empire it was abandoned several centuries ago. Since then, a succession of leaders of chaos expanded the complex beneath the tower to create a base to be used against Castle Blackmarsh (see 0913). Currently, it’s believed to be empty having been cleared by adventurers over forty years ago after the killing of Atacyl Oathbinder, an undead vampire magicuser.
+## 0610 Greenton
 
+Pop: 642, Halfling; Align: Lawful; Ruler: Ealdorman Paddock Ryburn, Lawful; Resource: Farm.
 
+Greenton is the chief settlement of the Newcombe Halflings and an important market for the surrounding farms. Here merchants from across Blackmarsh flock to purchase grain and other produce to export back to their home regions. When in residence, the merchants stay in a hamlet just outside of Greenton known as Sack. So named from the stuffed woolsacks the merchants sit on while bidding or negotiating prices. Ealdorman Paddock maintains a large contingent of 20 constables led by Sherriff Barris Ironoak to keep the merchants in their place.
 
-0804 Stardell Falls, Pop: 503, Elf; Align: Lawful; Ruler: King Nilal, Ftr4/Mu8, Lawful; Resource: Magic.
+## 0616
+
+Ruchill Burn runs through a 50’ deep gorge for over a half mile. During the Bright Empire, magic-users established a conclave here to harvest the viz found within the cliffs of the gorge. Two centuries after the empire’s fall, the conclave was abandoned. The cliffs are honeycombed with several levels of the conclave. Many of the levels span both sides of the gorge with bridges connecting them. Not all of them are safe.
+
+## 0702
+
+Six trolls (HD 6, Regen) feast on corpses from a slain merchant caravan from Muncaester (see 1305). The smoke from their cooking fire can be seen from two miles away.
+
+## 0712
+
+This ruined tower was once used as a lighthouse. It guided ships to the mouth of the Lanis River. Built during the Bright Empire it was abandoned several centuries ago. Since then, a succession of leaders of chaos expanded the complex beneath the tower to create a base to be used against Castle Blackmarsh (see 0913). Currently, it’s believed to be empty having been cleared by adventurers over forty years ago after the killing of Atacyl Oathbinder, an undead vampire magicuser.
+
+## 0804 Stardell Falls
+
+Pop: 503, Elf; Align: Lawful; Ruler: King Nilal, Ftr4/Mu8, Lawful; Resource: Magic.
 
 Stardell Falls is the heart of the Greywoods. The village consists of individual steadings arrayed in a series of semi-circles around a 40-foot waterfall. On either side of the falls are two towers made of a shimmering grey stone, and a bridge connects the two. The west tower is the King’s Tower and the east tower is the Queen’s tower. Here King Nilal resides with his queen, the Lady Aerindel (Ftr4/ Mu8).
 
 The waterfall is a rich source of viz. Elven magic-users inhabit the steadings surrounding the lynn. At the base, behind the falls, is a magnificent temple to Silvanus the Forest Lord. The temple is carved out of the rock. The falls provide a spectacular backdrop to the services especially when the moon or sun is at its zenith.
 
+## 0813
 
-0813 The dew dripping off of the tree after the night of the full moon was found to be filled with viz. Its location is one of the few resources that the old Guild of Wizards was able to keep secret after the fall of Atacyl Oathbinder (see 0913 Castle Blackmarsh).
+The dew dripping off of the tree after the night of the full moon was found to be filled with viz. Its location is one of the few resources that the old Guild of Wizards was able to keep secret after the fall of Atacyl Oathbinder (see 0913 Castle Blackmarsh).
 
 The morning after the full moon 2d6-2 viz can be collected from the dew dripping from a black ash growing above a pool of water before the sun clears the horizon.
 
+## 0814
 
+Scattered throughout the bogs are several small buildings that were once the homes of magic-users researching the plants and herbs of the region. Stone was sunk into the bogs and dry pathways were built to connect the scattered residences. It was abandoned in the century after the fall of the Bright Empire and time has taken its toll. Sections of the pathways have worn away and various creatures have moved into the abandoned dwellings. Some have reported that the wizards left unfinished experiments and strange forms of plant life live in the ruins.
 
-0814 Scattered throughout the bogs are several small buildings that were once the homes of magic-users researching the plants and herbs of the region. Stone was sunk into the bogs and dry pathways were built to connect the scattered residences. It was abandoned in the century after the fall of the Bright Empire and time has taken its toll. Sections of the pathways have worn away and various creatures have moved into the abandoned dwellings. Some have reported that the wizards left unfinished experiments and strange forms of plant life live in the ruins.
+## 0909
 
-0909 A large water elemental (16 HD) inhabits this area of the Smoking Bay. It preys on unwary ships sucking them down into a giant maelstrom. At the sea bottom there is a half-mile wide shallow basin littered with the remains of the ships and treasures that the water elemental dragged down.
+A large water elemental (16 HD) inhabits this area of the Smoking Bay. It preys on unwary ships sucking them down into a giant maelstrom. At the sea bottom there is a half-mile wide shallow basin littered with the remains of the ships and treasures that the water elemental dragged down.
 
-0912 This island is home to 100 men who fish the surrounding island. They were granted this island by the lords of Castle Blackmarsh in exchange for standing watch against any raiders, particularly Vasan Vikings. At the south end of the island is a 20’ wooden tower that can be seen from the main land. At the sign of danger a fire will be lit and relayed along a series of signal towers to Castle Blackmarsh.
+## 0912
 
+This island is home to 100 men who fish the surrounding island. They were granted this island by the lords of Castle Blackmarsh in exchange for standing watch against any raiders, particularly Vasan Vikings. At the south end of the island is a 20’ wooden tower that can be seen from the main land. At the sign of danger a fire will be lit and relayed along a series of signal towers to Castle Blackmarsh.
 
-## 0913 Castle Blackmarsh, Pop: 1,294, Men; Align: Neutral; Ruler: Governor Tyrilas, Elf, Ftr4/Mu2, Lawful; Resource: Market.
+## 0913 Castle Blackmarsh
+
+Pop: 1,294, Men; Align: Neutral; Ruler: Governor Tyrilas, Elf, Ftr4/Mu2, Lawful; Resource: Market.
 
 Castle Blackmarsh is the largest settlement in the Blackmarsh region. It was originally founded by the Bright Empire over a thousand years ago and served as the main port for various settlements and conclaves of magic-users. It was ruled by a governor appointed by the emperor and advised by a council of magic-users and merchants.
 
@@ -304,8 +333,6 @@ A century ago, an ambitious magic-user named Atacyl Oathbinder maneuvered his wa
 The elves took control of the settlement and appointed a governor at the head of the reformed council. Castle Blackmarsh, the home of the wizard’s conclave, was the site of many Atacyl’s experiments and magical researches. Even after a century of rule, not all of the levels that Atacyl created have been explored.
 
 Forty years ago, Atacyl reappeared as a vampire magic-user and attempted to retake Castle Blackmarsh. He was destroyed, supposedly, by a band of adventurers and his base at the old Lanis Lighthouse (see 0712) was purged.
-
-
 
 # Castle Blackmarsh Establishments
 
@@ -331,7 +358,7 @@ This is the largest inn in town. It has an extensive library that is open to pat
 
 ## 6) The Viz Club
 
-This is a banquet hall open to members only. Only elite explorers and adventurers are invited and the yearly fees are said to be ruinous. However, membership gives access to information and lore found -22-nowhere else. The few that are invited gladly pay.
+This is a banquet hall open to members only. Only elite explorers and adventurers are invited and the yearly fees are said to be ruinous. However, membership gives access to information and lore found nowhere else. The few that are invited gladly pay.
 
 ## 7) Dax Brothers Outfitters
 
@@ -355,173 +382,250 @@ The Company of Adventurers is largest company of caravanmasters in the Blackmars
 
 Actacyl’s reign dispossessed many wealthy and noble inhabitants of Blackmarsh. Driven into hiding, they attempted to strike back at the Oathbinder’s tyranny. In subsequent decades their descendents became little better than a group of organized thugs. Today, they gladly aid those who are discontented with the rule of the elves while running their illicit operation for financial gain.
 
-
 # Locales (Continued)
 
-0918 On a bluff, overlooking the lake, is the remains of a wizards’ conclave founded a thousand years ago during the Bright Empire. Like the others, it was abandoned shortly after the empire’s fall and remained unoccupied for several centuries. After the collapse of Atacyl’s attempt to regain control of Castle Blackmarsh, one of his lieutenants, Sir Autse Darkheart (Ftr12), now occupies the ruins. Sir Autse was transformed into a wraith and was made Atacyl’s second in command. The ruins are now crawling with skeletons, zombies, wights, and lesser wraiths under Darkheart’s command.
+## 0918
 
-1002 Wedmor, Pop: 255, Man(Ostrobard); Align: Lawful;
+On a bluff, overlooking the lake, is the remains of a wizards’ conclave founded a thousand years ago during the Bright Empire. Like the others, it was abandoned shortly after the empire’s fall and remained unoccupied for several centuries. After the collapse of Atacyl’s attempt to regain control of Castle Blackmarsh, one of his lieutenants, Sir Autse Darkheart (Ftr12), now occupies the ruins. Sir Autse was transformed into a wraith and was made Atacyl’s second in command. The ruins are now crawling with skeletons, zombies, wights, and lesser wraiths under Darkheart’s command.
 
-Ruler: Lord Octa, Ftr5, Lawful; Resource: Cattle.
+## 1002 Wedmor
+
+Pop: 255, Man(Ostrobard); Align: Lawful; Ruler: Lord Octa, Ftr5, Lawful; Resource: Cattle.
 
 Wedmor was settled by the Ostrobards several centuries ago and has become a center for cattle herding. Every fall, the herds are rounded up and most of the bulls and old are slaughtered. The meat is salted and shipped down the Rednut River to Muncaester and distributed throughout the Blackmarsh region. Lord Octa is looking for additional hands to aid with the roundup and guard against raiders and monsters.
 
+## 1014
 
-1014 This large island, in the midst of the Black Marshes, is a nesting ground for a herd of chimerae. (HD 9)
+This large island, in the midst of the Black Marshes, is a nesting ground for a herd of chimerae. (HD 9)
 
-1103 Sixteen centaurs (HD 4) are running down a herd of cattle they are planning to rustle. A mile away two herders (Ftr1) are riding at full gallop back to Wedmor (see 1002) for help.
+## 1103
 
-1107 This grotto is home to 86 merman (HD 1). They are ruled by King Neptar (Ftr4). They are holding a funeral for Neptar’s son who was slain by a water elemental. (see 0909)
+Sixteen centaurs (HD 4) are running down a herd of cattle they are planning to rustle. A mile away two herders (Ftr1) are riding at full gallop back to Wedmor (see 1002) for help.
 
-1112 On the sea bottom, are the sunken remains of the last treasure ships to sail from Blackmarsh before the fall of the Bright Empire. Gold, adamant, and sealed crates with viz lie in the hulls of a dozen galleys and scattered across the seabed. Taking residence amid the crumbling ships is a school of several dozen sharks (2 HD) along with a giant sea serpent. (12 HD)
+## 1107
 
+This grotto is home to 86 merman (HD 1). They are ruled by King Neptar (Ftr4). They are holding a funeral for Neptar’s son who was slain by a water elemental. (see 0909)
 
-Roster: 50 men.
+## 1112
+
+On the sea bottom, are the sunken remains of the last treasure ships to sail from Blackmarsh before the fall of the Bright Empire. Gold, adamant, and sealed crates with viz lie in the hulls of a dozen galleys and scattered across the seabed. Taking residence amid the crumbling ships is a school of several dozen sharks (2 HD) along with a giant sea serpent. (12 HD)
+
+## 1113 Inuacus Keep
+
+Ruler: Sir Causari, Ftr10, Lawful; Roster: 50 men.
 
 This keep is an outpost of Castle Blackmarsh and protects the surrounding farms from monsters moving north from the Black Marshes, as well as Atacyl loyalists located in Jorvik. Sir Causari is the leader of a faction that wants to see the elves leave Castle Blackmarsh and restore human rule.
 
+## 1213
 
-1213 Located on Witch Hill are the foundations of Ramat, an old ruined Thothian monastery from the time of the Bright Empire. It was home to a potent holy artifact known as the Spear of Ramat. All records on the monastery were lost after the empire’s retreat. In the present, the young daughter of Governor Causari of Inuacus Keep lost her favorite pet dog while on a picnic near the ruins. The governor will gladly pay an adventuring party to search the ruins for the dog. (see the Ruins of Ramat, from Brave Halfling Publishing.)
+Located on Witch Hill are the foundations of Ramat, an old ruined Thothian monastery from the time of the Bright Empire. It was home to a potent holy artifact known as the Spear of Ramat. All records on the monastery were lost after the empire’s retreat. In the present, the young daughter of Governor Causari of Inuacus Keep lost her favorite pet dog while on a picnic near the ruins. The governor will gladly pay an adventuring party to search the ruins for the dog. (see the Ruins of Ramat, from Brave Halfling Publishing.)
 
-1214 This island is home to a coven of warlocks. This coven was established a century ago after the fall of Castle Blackmarsh. A few surviving magic-users fled here with Atacyl’s body and oversaw his resurrection as a vampire. In the transformation process, Atacyl slaughtered half of the coven before fleeing into the bogs. Since then the coven has struggled to survive and only a few aging members remain.
+## 1214
 
-1217 In the foothills north of the last peaks of the Westwall is the steading of 8 hill giants (HD 8). They enjoy raiding the farms around Jorvik and Norbury Castle.
+This island is home to a coven of warlocks. This coven was established a century ago after the fall of Castle Blackmarsh. A few surviving magic-users fled here with Atacyl’s body and oversaw his resurrection as a vampire. In the transformation process, Atacyl slaughtered half of the coven before fleeing into the bogs. Since then the coven has struggled to survive and only a few aging members remain.
 
-1302 Camden, Pop: 214, Man(Ostrobard); Align: Lawful;
+## 1217
 
-Ruler: Lord Varxis, Ftr8, Lawful; Resource: Iron.
+In the foothills north of the last peaks of the Westwall is the steading of 8 hill giants (HD 8). They enjoy raiding the farms around Jorvik and Norbury Castle.
+
+## 1302 Camden
+
+Pop: 214, Man(Ostrobard); Align: Lawful; Ruler: Lord Varxis, Ftr8, Lawful; Resource: Iron.
 
 Several iron mines dot the hills to the west. Lord Varxis has his hands full trying to keep enough forces in the field to protect the mines.
 
-1305 Muncaester, Pop: 895, Man(Ostrobard); Align: Lawful;
+## 1305 Muncaester
 
-Ruler: Duke Caedwine, Ftr4, Lawful; Resource: Market.
+Pop: 895, Man(Ostrobard); Align: Lawful; Ruler: Duke Caedwine, Ftr4, Lawful; Resource: Market.
 
 Muncaester is the largest settlement of the Ostrobards, and the seat of their dukes. It is located on an island in the midst of a bay formed by the confluence of the Rednut River and the River Eamont. A thriving market in farm produce, furs, and exotic herbs attracts merchants from all over the Grey Sea.
 
 Duke Caedwin is known for his great girth and wild banquets. He has agents throughout the town on the lookout for new arrivals to provide a banquet with tales of their exploits. The duke will not take no for an answer.
 
+## 1306
 
-1306 A small group of five islands stretches southwest from Muncaester (see 1305). They are home to dozens of fishing clans harvesting the bounty of the Grey Sea. Several of the fishermen are members of smuggler clans that specialize in moving goods in and out of Muncaester, evading the duke’s taxmen.
+A small group of five islands stretches southwest from Muncaester (see 1305). They are home to dozens of fishing clans harvesting the bounty of the Grey Sea. Several of the fishermen are members of smuggler clans that specialize in moving goods in and out of Muncaester, evading the duke’s taxmen.
 
-1307 This forested island lies unspoiled in the middle of the Smoking Bay. The sorcereress Naomi (Mu9) ensures that it stays that way. She relies on several dryads (HD 2, charm) for aid. She was once the lover of the Wizard of the Isle, (see 1309) but he spurned her several centuries ago. Because of this any male interlopers will stay as the guest of the dryads for a long, long time. Females will just experience memory loss and put adrift to sea.
+## 1307
 
-1309 The larger island is all that remains of The Mountain That Fell. It is incredibly rich in viz although the lack of any beach and the steep slopes make it difficult to get around. Any who managed to brave the island not only has to contend with the ire of the Wizard of the Isle but the numerous flyers dwelling around the slopes. There have been reports of gargoyles, wyverns, griffons, hippogriffs, pegasi, chimerae, manticores, and even rocs nesting near the summit.
+This forested island lies unspoiled in the middle of the Smoking Bay. The sorcereress Naomi (Mu9) ensures that it stays that way. She relies on several dryads (HD 2, charm) for aid. She was once the lover of the Wizard of the Isle, (see 1309) but he spurned her several centuries ago. Because of this any male interlopers will stay as the guest of the dryads for a long, long time. Females will just experience memory loss and put adrift to sea.
+
+## 1309
+
+The larger island is all that remains of The Mountain That Fell. It is incredibly rich in viz although the lack of any beach and the steep slopes make it difficult to get around. Any who managed to brave the island not only has to contend with the ire of the Wizard of the Isle but the numerous flyers dwelling around the slopes. There have been reports of gargoyles, wyverns, griffons, hippogriffs, pegasi, chimerae, manticores, and even rocs nesting near the summit.
 
 The smaller island off the southwest shore is home to the mysterious Wizard of the Isle (Mu18). His presence goes back centuries and all anybody knows of him is that he is the self-appointed guardian of what remains of The Mountain That Fell.
 
 Anybody surviving landfall and subsequent attacks by the local creatures will be apprehended by the Wizard of the Isle, and warned not to return. They will be escorted back to their ship by the wizard’s golden mechanical servant Cee-Three. He will calmly explain that they need to seek their viz elsewhere and that The Mountain That Fell is very dangerous to meddle with.
 
+## 1316 Jorvik
 
-## 1316 Jorvik, Pop: 481, Man; Align: Neutral;
-
-Ruler: Lord Maracan, Ftr11, Chaotic; Resource: Market.
+Pop: 481, Man; Align: Neutral; Ruler: Lord Maracan, Ftr11, Chaotic; Resource: Market.
 
 Jorvik was once one of the small villages allied with Castle Blackmarsh until a century ago. When Atacyl rule was overthrown, several of his supporters fled to Jorvik and fortified the village. They attempted several plots to retake Castle Blackmarsh, but failed. Their aid of Atacyl’s last failed attempt (see 0712) nearly ruined them and they were forced to pay tribute to Castle Blackmarsh.
 
 Lord Maracan is the current leader and his plans revolve around posing as experts on the region to newly arrived scouts of the Grand Kingdom. He is also attempting to enflame resentment towards the elves and their ranger lackeys.
 
-1406 Two Vasan longships drift in the current, resting after a several days of hard sailing. Each ship has 75 warriors on board. Their chief, Egil Longhair (Ftr 8), plans to raid at sunrise.
+## 1406
 
-1503 A flock of 9 hippogriffs (HD 3) landed on Egbert’s farm two miles from the river. The locals have gathered to watch. Egbert weeps as his pigs and chickens are devoured by the hippogriffs.
+Two Vasan longships drift in the current, resting after a several days of hard sailing. Each ship has 75 warriors on board. Their chief, Egil Longhair (Ftr 8), plans to raid at sunrise.
 
-1506 Ethanfeld, Pop: 145, Man (Ostrobard); Align: Lawful;
+## 1503
 
-Ruler: Lord Ingwold, Ftr6, Lawful; Resource: Fish.
+A flock of 9 hippogriffs (HD 3) landed on Egbert’s farm two miles from the river. The locals have gathered to watch. Egbert weeps as his pigs and chickens are devoured by the hippogriffs.
+
+## 1506 Ethanfeld
+
+Pop: 145, Man (Ostrobard); Align: Lawful; Ruler: Lord Ingwold, Ftr6, Lawful; Resource: Fish.
 
 This village gains much of its livelihood from fishing, but also enjoys some trade outfitting adventurers heading east to the Dragonbone Peaks. Lord Ingwold leads 20 men known as the Dragonbane Company. They keep the valley up river clear of monsters.
 
-1515 A shrine to the sea god, Mannann, is maintained on the island by Tavis (Clr 8). His holy duty is to aid any shipwreck survivors. He has a small single mast sailing boat he uses to search the surrounding waters.
+## 1515
 
-1518 Norbury Castle; Ruler: Sir Dennis Langre, Ftr9, Lawful; Roster: 120 men.
+A shrine to the sea god, Mannann, is maintained on the island by Tavis (Clr 8). His holy duty is to aid any shipwreck survivors. He has a small single mast sailing boat he uses to search the surrounding waters.
+
+## 1518 Norbury Castle
+
+Ruler: Sir Dennis Langre, Ftr9, Lawful; Roster: 120 men.
 
 This is the northernmost outpost of the Vasa Province of the Grand Kingdom. Completed only five years ago, it is hoped that the castle will serve as a gateway for merchants and explorers from the Grand Kingdom into Blackmarsh.
 
 Sir Dennis Langre served on the frontier with Grand Kingdom’s rival the Ochre Empire and in some of the New World colonies. While he appreciates the aid that Lord Maracan of Jorvik has given in learning about Blackmarsh, he is beginning to suspect an ulterior agenda.
 
+## 1602 Wessex Keep
 
-1602 Wessex Keep; Ruler: Bedewald the Atheling, Ftr6, Lawful; Roster: 50 men.
+Ruler: Bedewald the Atheling, Ftr6, Lawful; Roster: 50 men.
 
 This is the easternmost outpost of the Ostrobards. It shields the farms and villages to the west from the creatures who dwell in the Dragonbone Peaks. Duke Caedwin eldest son, Bedewald, is in command. He is the opposite of his libertine father in almost every way. He was given Wessex Keep to so that the duke wouldn’t have to hear his nagging.
 
-1609 The land between the coast and the swamp is occupied by 325 Kobolds (HD ½) of the Shelleater Tribe. They are divided into six feuding clans who continually fight among themselves. They will only unite when outsiders invade. They use their superior knowledge of the terrain to make life miserable for the invaders.
+## 1609
 
-1701 In a cave beneath a rocky outcropping, an eight-headed hydra (8 HD) has taken residence. Bedewald the Atheling (see 1602) has a patrol periodically check to make sure it hasn’t moved farther south.
+The land between the coast and the swamp is occupied by 325 Kobolds (HD ½) of the Shelleater Tribe. They are divided into six feuding clans who continually fight among themselves. They will only unite when outsiders invade. They use their superior knowledge of the terrain to make life miserable for the invaders.
 
-1706 Four rocs (6 HD) from The Mountain That Fell (see 1309) have landed and are feasting on the remains of a sub-adult red dragon (see 2105). Three hundred yards to the east is the charred remains of a fifth Roc.
+## 1701
 
-1709 On this island, in the midst of the swamp, there is strange black monolith on top of a rocky outcropping. Every full moon weretigers emerge from the surrounding bogs to perform strange rites. If the ritual is watched for any length the players will discovered all races are among the weretigers; elves, men, halflings, and dwarves. And even orcs, goblins, and kobolds! Those who visited The Mountain That Fell (see 1309) will see that the monolith is made of the same type of stone.
+In a cave beneath a rocky outcropping, an eight-headed hydra (8 HD) has taken residence. Bedewald the Atheling (see 1602) has a patrol periodically check to make sure it hasn’t moved farther south.
 
+## 1706
 
+Four rocs (6 HD) from The Mountain That Fell (see 1309) have landed and are feasting on the remains of a sub-adult red dragon (see 2105). Three hundred yards to the east is the charred remains of a fifth Roc.
 
-1807 In the middle of this forest is a confusing network of ravines and hills. This is the current base of the Brotherhood of the Raven. They are a group who believe in the supremacy of the elves. They have operated against the rangers and other races of Blackmarsh for nearly two thousand years.
+## 1709
+
+On this island, in the midst of the swamp, there is strange black monolith on top of a rocky outcropping. Every full moon weretigers emerge from the surrounding bogs to perform strange rites. If the ritual is watched for any length the players will discovered all races are among the weretigers; elves, men, halflings, and dwarves. And even orcs, goblins, and kobolds! Those who visited The Mountain That Fell (see 1309) will see that the monolith is made of the same type of stone.
+
+## 1807
+
+In the middle of this forest is a confusing network of ravines and hills. This is the current base of the Brotherhood of the Raven. They are a group who believe in the supremacy of the elves. They have operated against the rangers and other races of Blackmarsh for nearly two thousand years.
 
 Currently there are 158 Elves in residence along with 200 slaves, mostly orcs. They are nominally led by the Autarch Elana (Ftr4/Mu8) who has minimal authority over the various commanders and their troops. To get anything done Elana has to continually negotiate compromises between the different factions.
 
-1816 At the bottom of the lagoon are the remains of a ship that was sent by the Grand Kingdom’s rival, the Ochre Empire to scout Blackmarsh. It contains several treasure chests of gold for bribery and valuable supplies to outfit expeditions.
+## 1816
 
-1902 This was a settlement of the Ostrobards that was burned out several decades ago by the dragon Scytheback (see 2105). It was the hub for several abandoned silver mines nearby.
+At the bottom of the lagoon are the remains of a ship that was sent by the Grand Kingdom’s rival, the Ochre Empire to scout Blackmarsh. It contains several treasure chests of gold for bribery and valuable supplies to outfit expeditions.
 
-1905 This is an encampment for 15 elves from the Brotherhood of the Ravens. They are led by Rinisar Anothil (Ftr 2/Mu 2). They plan to rouse the hydra (see 1701) and drive it to the southwest to ravage the lands of the Ostrobards.
+## 1902
 
-1911 This network of caves is home to 105 orcs (1 HD) of the Bateater Tribe. They pay an annual tribute to the Brotherhood of the Raven (see 1807).
+This was a settlement of the Ostrobards that was burned out several decades ago by the dragon Scytheback (see 2105). It was the hub for several abandoned silver mines nearby.
 
-1914 A sleeping dragon turtle (11 HD) has drifted into the Sheltered Bay.
+## 1905
 
-2015 Ten Vasan Vikings (HD 1) stand guard over supplies for the return voyage of Egil Longhair’s fleet (see 1406).
+This is an encampment for 15 elves from the Brotherhood of the Ravens. They are led by Rinisar Anothil (Ftr 2/Mu 2). They plan to rouse the hydra (see 1701) and drive it to the southwest to ravage the lands of the Ostrobards.
 
-2105 This is the lair of Scytheback, a very old red dragon (11 HD). She participated in the fall of the Bright Empire over a thousand years ago and hordes the treasures she looted here. She made an alliance with the Brotherhood of the Raven (see 1807) and considers them useful pawns in keeping unwanted visitors away from her lair.
+## 1911
+
+This network of caves is home to 105 orcs (1 HD) of the Bateater Tribe. They pay an annual tribute to the Brotherhood of the Raven (see 1807).
+
+## 1914
+
+A sleeping dragon turtle (11 HD) has drifted into the Sheltered Bay.
+
+## 2015
+
+Ten Vasan Vikings (HD 1) stand guard over supplies for the return voyage of Egil Longhair’s fleet (see 1406).
+
+## 2105
+
+This is the lair of Scytheback, a very old red dragon (11 HD). She participated in the fall of the Bright Empire over a thousand years ago and hordes the treasures she looted here. She made an alliance with the Brotherhood of the Raven (see 1807) and considers them useful pawns in keeping unwanted visitors away from her lair.
 
 Over the centuries, she has had a succession of mates to breed her young. Her current mate is Dakack, an adult red dragon (10 HD), whom with she mated with twenty years ago. They are currently raising three young that are now sub-adults (10 HD). One of them is missing (see 1706).
 
+## 2109 The Tribute Place
 
-2109 The Tribute Place: Kinkaris, Ftr6, Lawful, Orc; 20 orcs. This crude heap of stones serves as a keep for Kinkaris (Ftr7, Orc, C) and his guards (Ftr 3, Orc). He has been placed in charge of collecting the annual tribute for the Brotherhood of the Raven from the Bateaters (see 1911) and Bloodcrusher tribes (see 2207).
+Kinkaris, Ftr6, Lawful, Orc; 20 orcs.
 
+This crude heap of stones serves as a keep for Kinkaris (Ftr7, Orc, C) and his guards (Ftr 3, Orc). He has been placed in charge of collecting the annual tribute for the Brotherhood of the Raven from the Bateaters (see 1911) and Bloodcrusher tribes (see 2207).
 
-2114 On this idyllic island five mermaids (HD 1, charm) frolic in the streams, collecting seashells, and gently placing them in a crystal clear pool of water in the center of the island. Then on the night of the full moon they collect the ones that turn into viz (4d6) and journey to the Azure Lord’s hall. (see 2416)
+## 2114
 
-2201 Within the ruined castle, made of black stone, are twisted skeletal remains. It is obvious that they came to some horrific end. Several attempts over the last several centuries have been made to reoccupy the castle. Nevertheless, after the full moon the new inhabitants are slain in the same manner. The last attempt was made a hundred years ago by the Brotherhood of the Raven.
+On this idyllic island five mermaids (HD 1, charm) frolic in the streams, collecting seashells, and gently placing them in a crystal clear pool of water in the center of the island. Then on the night of the full moon they collect the ones that turn into viz (4d6) and journey to the Azure Lord’s hall. (see 2416)
 
-2203 In this corner of the forest, 85 pixies make their home. Their miniature village is spread out among the trees built on small wooden platforms. They gleefully torment anyone who intrudes.
+## 2201
 
-2207 This network of caves is the home of 243 Orcs of the Bloodcrusher Tribe. They are ruled by King Suduk (Ftr 8) assisted by his shaman G’mung (Mu6). King Suduk resents paying tribute to the Brotherhood of the Raven and especially hates Kinkaris (see 2109).
+Within the ruined castle, made of black stone, are twisted skeletal remains. It is obvious that they came to some horrific end. Several attempts over the last several centuries have been made to reoccupy the castle. Nevertheless, after the full moon the new inhabitants are slain in the same manner. The last attempt was made a hundred years ago by the Brotherhood of the Raven.
 
-2306 The hills and ravines echo with the sound of battle as 15 berserkers (Ftr 1) from Castle Taldane battles 30 orcs (HD 1) from the Bloodcrusher Tribe. The berserkers are surrounded on a ridge between two ravines and are hard pressed by the orcs.
+## 2203
 
+In this corner of the forest, 85 pixies make their home. Their miniature village is spread out among the trees built on small wooden platforms. They gleefully torment anyone who intrudes.
 
-2401 Along the side of a half-mile stretch of the river valley are the warrens for 300 giant ants (2 HD). The queen’s chamber is built around a long buried cubical artifact 10’ by 10’ by 10’. There is a door on one side of the artifact, but the giant ants have not opened it. One in twenty ant eggs can be used as a single viz.
+## 2207
 
-2410 Six 20’ tall black pillars with strange carvings can be seen through the water on the top of a shallow bank. On further examination, there are compartments on the ends of the pillars where viz can be inserted.
+This network of caves is the home of 243 Orcs of the Bloodcrusher Tribe. They are ruled by King Suduk (Ftr 8) assisted by his shaman G’mung (Mu6). King Suduk resents paying tribute to the Brotherhood of the Raven and especially hates Kinkaris (see 2109).
 
-2411 Ysby, Pop: 80, Man (Vasan); Align: Neutral;
+## 2306
 
-Ruler: Chief Bjarni, Ftr5, Neutral; Resource: Fish.
+The hills and ravines echo with the sound of battle as 15 berserkers (Ftr 1) from Castle Taldane battles 30 orcs (HD 1) from the Bloodcrusher Tribe. The berserkers are surrounded on a ridge between two ravines and are hard pressed by the orcs.
+
+## 2401
+
+Along the side of a half-mile stretch of the river valley are the warrens for 300 giant ants (2 HD). The queen’s chamber is built around a long buried cubical artifact 10’ by 10’ by 10’. There is a door on one side of the artifact, but the giant ants have not opened it. One in twenty ant eggs can be used as a single viz.
+
+## 2410
+
+Six 20’ tall black pillars with strange carvings can be seen through the water on the top of a shallow bank. On further examination, there are compartments on the ends of the pillars where viz can be inserted.
+
+## 2411 Ysby
+
+Pop: 80, Man (Vasan); Align: Neutral; Ruler: Chief Bjarni, Ftr5, Neutral; Resource: Fish.
 
 This fishing village of Vasan Vikings was established two hundred years ago by an improvised clan from Vasa. They kept contact with their relatives, and when much of Vasa fell to the Grand Kingdom Ysby proved to be an important way station for the refugees. Since the establishment of Castle Taldane, it has returned to being a sleepy fishing hamlet.
 
-2416 A sea mount rises from the ocean floor to 15 feet beneath the surface. Around the peak and down 80 feet are the grottos and caves of the Azure King (Ftr12), a powerful merman lord. He rules over a tribe of 300 mermen. The Sapphire Enchantress (Mu12, Merman) is his advisor and the current lover of the Wizard of the Isle.
+## 2416
 
-2505 Castle Taldane: Ruler: King Ragnar the Ringless, Ftr9, Neutral, Men (Vasan); Roster: 200 men (Vasan).
+A sea mount rises from the ocean floor to 15 feet beneath the surface. Around the peak and down 80 feet are the grottos and caves of the Azure King (Ftr12), a powerful merman lord. He rules over a tribe of 300 mermen. The Sapphire Enchantress (Mu12, Merman) is his advisor and the current lover of the Wizard of the Isle.
+
+## 2505 Castle Taldane
+
+Ruler: King Ragnar the Ringless, Ftr9, Neutral, Men (Vasan); Roster: 200 men (Vasan).
 
 King Ragnar’s grandfather was dispossessed by the conquest of Vasa by the Grand Kingdom. He fled with what goods he could carry on his longships and brought with him as many of his own and allied clans as he could. In the decades since the petty kings of Taldane dreamt of reconquering their home, but it has been a struggle to survive in Blackmarsh let alone rebuild enough troops to mount a major military expedition.
 
-King Ragnar is known as the ringless after losing his royal signet ring when his finger was cut off in a raid on Castle Blackmarsh. It brought him great shame and now he spends his days in a drunken stupor beating his dogs. Rumor has it that it is sitting in a jeweler’s shop in Castle
+King Ragnar is known as the ringless after losing his royal signet ring when his finger was cut off in a raid on Castle Blackmarsh. It brought him great shame and now he spends his days in a drunken stupor beating his dogs. Rumor has it that it is sitting in a jeweler’s shop in Castle Blackmarsh.
 
+## 2509 Gamla
 
-2509 Gamla, Pop: 405, Man (Vasan); Align: Neutral; Ruler: Chief Yngvar, Ftr12, Neutral; Resource: Farm.
+Pop: 405, Man (Vasan); Align: Neutral; Ruler: Chief Yngvar, Ftr12, Neutral; Resource: Farm.
 
 Protected by the swamp to the west, Gamla has seen a small measure of prosperity due to the fertile land. Chief Yngvar criticizes King Ragnar (see 2505) at every turn. Yngvar is considering whether to challenge him or whether to raise a rebellion to overthrow him.
 
-2618 A ship from the Ochre Empire is sailing toward Blackmarsh searching for the lost expedition sent here five years ago. It is commanded by Lord Travvarn (Ftr7, L), a powerful myrmidon in the Church of Sarrath, the Dragon God. He is assisted by Archon Devers (Clr5, L) who enforces a strict discipline among the ship’s crew and warriors.
+## 2618
 
-2704 Daretop, Pop: 415, Man (Vasan); Align: Neutral;
+A ship from the Ochre Empire is sailing toward Blackmarsh searching for the lost expedition sent here five years ago. It is commanded by Lord Travvarn (Ftr7, L), a powerful myrmidon in the Church of Sarrath, the Dragon God. He is assisted by Archon Devers (Clr5, L) who enforces a strict discipline among the ship’s crew and warriors.
 
-Ruler: Chief Kalfvald, Ftr8, Neutral; Resource: Farm.
+## 2704 Daretop
+
+Pop: 415, Man (Vasan); Align: Neutral; Ruler: Chief Kalfvald, Ftr8, Neutral; Resource: Farm.
 
 Daretop supplies much of the food for Castle Taldane. Chief Kalfvald is an aging warrior past his prime. The chief is fiercely loyal to King Ragnar and will come to his aid in any fight with Chief Yngvar (see 2509). However, his son Hamdir (Ftr7) does not share his father’s loyalties. The death of Kalfvald will drastically alter the balance of power for King Ragnar.
 
-2706 This island is crawling with giant crabs (3 HD). Longships from Daretop (2704), Castle Taldane (2505), Gamla (2509), and Ysby(2411) come here to hunt the crabs. It is dangerous, but great sport among the vikings.
+## 2706
 
-2707 This island is deserted except for a single driftwood hut. Here dwells Kostbera, a Vasan seeress. In exchange for food and supplies, she will build a fire out of driftwood and seaweed to read the omens for the giver.
+This island is crawling with giant crabs (3 HD). Longships from Daretop (2704), Castle Taldane (2505), Gamla (2509), and Ysby (2411) come here to hunt the crabs. It is dangerous, but great sport among the vikings.
 
-2714 Those who pass this spot report strange bubbles foaming the surface. The few that have ventured down 100 feet have reported pieces of a strange, giant, crystalline skeleton at the bottom. Even more disturbing is that in the more recent reports, the skeleton is more complete.
+## 2707
+
+This island is deserted except for a single driftwood hut. Here dwells Kostbera, a Vasan seeress. In exchange for food and supplies, she will build a fire out of driftwood and seaweed to read the omens for the giver.
+
+## 2714
+
+Those who pass this spot report strange bubbles foaming the surface. The few that have ventured down 100 feet have reported pieces of a strange, giant, crystalline skeleton at the bottom. Even more disturbing is that in the more recent reports, the skeleton is more complete.
