@@ -290,7 +290,7 @@ Six trolls (HD 6, Regen) feast on corpses from a slain merchant caravan from Mun
 
 ## 0712
 
-This ruined tower was once used as a lighthouse. It guided ships to the mouth of the Lanis River. Built during the Bright Empire it was abandoned several centuries ago. Since then, a succession of leaders of chaos expanded the complex beneath the tower to create a base to be used against Castle Blackmarsh (see 0913). Currently, it’s believed to be empty having been cleared by adventurers over forty years ago after the killing of Atacyl Oathbinder, an undead vampire magicuser.
+This ruined tower was once used as a lighthouse. It guided ships to the mouth of the Lanis River. Built during the Bright Empire it was abandoned several centuries ago. Since then, a succession of leaders of chaos expanded the complex beneath the tower to create a base to be used against Castle Blackmarsh (see 0913). Currently, it’s believed to be empty having been cleared by adventurers over forty years ago after the killing of Atacyl Oathbinder, an undead vampire magic user.
 
 ## 0804 Stardell Falls
 
