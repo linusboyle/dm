@@ -9,14 +9,14 @@ tags: []
 
 - **2 in 6** chance for every unexplored room, every 2 previously explored rooms, or when considerable **noise** is made.
 
-| d6 | Escalating Encounter                       |
-|----|--------------------------------------------|
-| 1  | <b>The Other Witch</b> (p.34)              |
-| 2  | <b>The Count's Animated Armor</b> (p.35)   |
-| 3  | <b>Dorothy, the Spider Queen</b> (p.36)    |
-| 4  | <b>Sister Geraldine, Fallen Nun</b> (p.37) |
-| 5  | <b>Christina, the Seductress</b> (p.38)    |
-| 6  | <b>The Count</b> (p.39)                    |
+| d6  | Escalating Encounter                    |
+| --- | --------------------------------------- |
+| 1   | **The Other Witch** (p.34)              |
+| 2   | **The Count's Animated Armor** (p.35)   |
+| 3   | **Dorothy, the Spider Queen** (p.36)    |
+| 4   | **Sister Geraldine, Fallen Nun** (p.37) |
+| 5   | **Christina, the Seductress** (p.38)    |
+| 6   | **The Count** (p.39)                    |
 
 ## Stress Level (SL)
 
@@ -40,9 +40,9 @@ tags: []
 | d6 | Vampiric Traits                                                                                                                                      |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | +1 retractable claws (1d6 slashing)                                                                                                                  |
-| 2  | <b>Charm</b> a creature you can see. Roll <b>Cha</b> vs <b>SL</b>. Roll again next turn to <b>Command</b> charmed creature to do one unharful action |
-| 3  | Ultrasonic scream (3d6 thunder). Roll <b>Cha</b> vs <b>SL</b>. Makes <b>noise</b>, can't harm other vampires                                         |
-| 4  | Climb on walls & ceiling as <b>Spiderclimb</b>                                                                                                       |
+| 2  | **Charm** a creature you can see. Roll **Cha** vs **SL**. Roll again next turn to **Command** charmed creature to do one unharmful action |
+| 3  | Ultrasonic scream (3d6 thunder). Roll **Cha** vs **SL**. Makes **noise**, can't harm other vampires                                         |
+| 4  | Climb on walls & ceiling as **Spiderclimb**                                                                                                       |
 | 5  | Turn into a bat with 1 HP (once per area)                                                                                                            |
 | 6  | Give yourself d6 damage to give yourself Advantage on the next d20 roll                                                                              |
 
@@ -50,10 +50,10 @@ tags: []
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Vulnerable to fire & radiant damage                                                                                                                                                          |
 | 2  | Disadvantage to all d20 rolls while in the presence of sunlight (Mother's Icon & Sun Sword)                                                                                                  |
-| 3  | Your <b>Shadow</b> (10 HP) looks like the monster you may become. Joins in on any combat, attacking only you. If defeated, will reappear at Midnight or if any more <b>blood</b> is consumed |
+| 3  | Your **Shadow** (10 HP) looks like the monster you may become. Joins in on any combat, attacking only you. If defeated, will reappear at Midnight or if any more **blood** is consumed |
 | 4  | Cannot directly harm a creature until they harm you first                                                                                                                                    |
-| 5  | Pale flesh, red eyes, & angled features cause innocent people to believe you're a monster (<b>Krystopher &amp; Matilda</b>)                                                                  |
-| 6  | Your <b>Vampiric Traits</b> are suppressed when in the presence of actual vampires (the <b>Count</b> & his <b>Brides</b>)                                                                    |
+| 5  | Pale flesh, red eyes, & angled features cause innocent people to believe you're a monster (**Krystopher & Matilda**)                                                                  |
+| 6  | Your **Vampiric Traits** are suppressed when in the presence of actual vampires (the **Count** & his **Brides**)                                                                    |
 
 ### Yesterday...
 
@@ -163,9 +163,9 @@ The PCs have been **Cursed** with a unique form of Vampirism. It manifests as an
 | d6 | Vampiric Traits                                                                                                                               |
 |----|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | +1 retractable claws (1d6 slashing)                                                                                                           |
-| 2  | <b>Charm</b> a creature you can see. Roll <b>Cha vs SL</b>. Roll again next turn to <b>Command</b> charmed creature to do one unharmed action |
-| 3  | Ultrasonic scream (3d6 thunder). Roll <b>Cha vs SL</b>. Makes <b>noise</b>, can't harm other vampires                                         |
-| 4  | Climb on walls & ceiling as <b>Spiderclimb</b>                                                                                                |
+| 2  | **Charm** a creature you can see. Roll **Cha vs SL**. Roll again next turn to **Command** charmed creature to do one unharmed action |
+| 3  | Ultrasonic scream (3d6 thunder). Roll **Cha vs SL**. Makes **noise**, can't harm other vampires                                         |
+| 4  | Climb on walls & ceiling as **Spiderclimb**                                                                                                |
 | 5  | Turn into a bat with 1 HP (once per area)                                                                                                     |
 | 6  | Give yourself d6 damage to give yourself Advantage on the next d20 roll                                                                       |
 
@@ -173,10 +173,10 @@ The PCs have been **Cursed** with a unique form of Vampirism. It manifests as an
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Vulnerable to fire & radiant damage                                                                                                                                                          |
 | 2  | Disadvantage to all d20 rolls while in the presence of sunlight (Mother's Icon & Sun Sword)                                                                                                  |
-| 3  | Your <b>Shadow</b> (10 HP) looks like the monster you may become. Joins in on any combat, attacking only you. If defeated, will reappear at Midnight or if any more <b>blood</b> is consumed |
+| 3  | Your **Shadow** (10 HP) looks like the monster you may become. Joins in on any combat, attacking only you. If defeated, will reappear at Midnight or if any more **blood** is consumed |
 | 4  | Cannot directly harm a creature until they harm you first                                                                                                                                    |
-| 5  | Pale flesh, red eyes, & angled features cause innocent people to believe you're a monster (<b>Krystopher &amp; Matilda</b>)                                                                  |
-| 6  | Your <b>Vampiric Traits</b> are suppressed when in the presence of actual vampires (the <b>Count &amp; his Brides</b>)                                                                       |
+| 5  | Pale flesh, red eyes, & angled features cause innocent people to believe you're a monster (**Krystopher & Matilda**)                                                                  |
+| 6  | Your **Vampiric Traits** are suppressed when in the presence of actual vampires (the **Count & his Brides**)                                                                       |
 
 ### Trinkets from Home
 
@@ -305,7 +305,7 @@ You wake to sloshing water and clinking chains. Smells of decay & stagnant water
 
 - To the right, a squatting gargoye statue at a dead end → Large stone head at eye level. Mouth agape. Tongue covered in a flaky rust color → Dried **blood**. Spreading fresh **blood** on the tongue opens a secret door into the **Catacombs** (p.12).
 
-### The Old Man ' s Fortune
+### The Old Man's Fortune
 
 “Oh! New cell mates! Welcome to m’lord’s **Castle**. You must be the latest pawns in m’lord’s game—a game of hunter & hunted. At midnight, when the moon is at its highest peak, he’ll begin the hunt. Feel free to look around until then. But wait! I see a spark in your souls. Your fortune is clouded...perhaps I could read it for you.”
 
@@ -354,9 +354,9 @@ Squat ceiling. Thick square columns which double as crypts. Too many corners and
 | d4 | Crypt Contents                                                                                                                                                                                                               |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | The name is scrawled out. “Still Wandering” → A lone wood armor stand. A vial of oil and a rag.                                                                                                                              |
-| 2  | (Your PC’s name). “Alas, (s)he was too late!” → An empty coffin with a <b>Trinket</b> (a drawing of your imaginary friend) inside as well as a <b>mundane weapon, armor, or shield of the named PC’s choice</b>.             |
-| 3  | Baron von Bobber. “Still drowning in his riches.” → Thousands of copper coins pour out if opened. <b>Strength Save</b> or become buried & helpless until dug out. Corpse inside wears a <b>Treasure</b> (bent golden crown). |
-| 4  | Mother Raven. “Until We Meet in the Heavens” → The <b>Mother’s Icon</b> around neck. Corpse turns to ash when removed.                                                                                                       |
+| 2  | (Your PC’s name). “Alas, (s)he was too late!” → An empty coffin with a **Trinket** (a drawing of your imaginary friend) inside as well as a **mundane weapon, armor, or shield of the named PC’s choice**.             |
+| 3  | Baron von Bobber. “Still drowning in his riches.” → Thousands of copper coins pour out if opened. **Strength Save** or become buried & helpless until dug out. Corpse inside wears a **Treasure** (bent golden crown). |
+| 4  | Mother Raven. “Until We Meet in the Heavens” → The **Mother’s Icon** around neck. Corpse turns to ash when removed.                                                                                                       |
 
 ► **Faint weeping from the north** → leads to **The Brother’s Tomb** (p.13).
 
@@ -366,7 +366,7 @@ Squat ceiling. Thick square columns which double as crypts. Too many corners and
 
 **The Mother’s Icon:** a silver holy symbol of a forgotten sun. Shines light like a torch. Roll a **Wisdom Check** against the current **Stress Level** to shine at any undead, causing them to retreat. The **Count** does not retreat but cannot directly harm the weilder so long as the light stays upon him.
 
-### The Brother ' s Tomb
+### The Brother's Tomb
 
 Larger chamber surrounded by thick wrought iron windowpanes. Rain patters on the opaque glass. A pitiful cry comes from nowhere.
 
@@ -382,7 +382,7 @@ Larger chamber surrounded by thick wrought iron windowpanes. Rain patters on the
 
 ► If the **Ghost’s** name is spoken aloud (Sergei), it begins to recall his former life. His spirit cannot rest until his love is buried with him. He cannot recall her by name. → If the **Countess’s** (p.33) corpse is brought to him, he urges the PCs to lay her beside his corpse within his coffin. → With his lover reunited, his spirit is sent to the heavens, shattering the windows surrounding his coffin and revealing the hidden balcony outside.
 
-### The Count ' s Tomb
+### The Count's Tomb
 
 A large underground chamber illuminated by wall mounted candles. The air is heavy and thick with dust.
 
@@ -392,10 +392,10 @@ A large underground chamber illuminated by wall mounted candles. The air is heav
 
 | d4 | Through the Count's Eyes                                                                                                                                                                              |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Glides down the stairwell, into the <b>Catacombs</b> (p.12), right behind you                                                                                                                         |
-| 2  | Plays the organ in the <b>Organ Room</b> (p.19). Suddenly stops, stands, and turns to a mirror. You see yourself in the reflection just before the mirror cracks & the <b>Stress Level</b> rises by 1 |
-| 3  | Sitting in a lounge, high in a tower looking out a window. Pours a decanter of green liquid, drinks, <b>Constitution Save</b> or take <b>5d6 poison damage</b>                                        |
-| 4  | Tangled with his brides & a terrified maiden in a large bedroom, taking turns feeding on her (<i>next Escalating Encounter, nothing happens</i>)                                                      |
+| 1  | Glides down the stairwell, into the **Catacombs** (p.12), right behind you                                                                                                                         |
+| 2  | Plays the organ in the **Organ Room** (p.19). Suddenly stops, stands, and turns to a mirror. You see yourself in the reflection just before the mirror cracks & the **Stress Level** rises by 1 |
+| 3  | Sitting in a lounge, high in a tower looking out a window. Pours a decanter of green liquid, drinks, **Constitution Save** or take **5d6 poison damage**                                        |
+| 4  | Tangled with his brides & a terrified maiden in a large bedroom, taking turns feeding on her (*next Escalating Encounter, nothing happens*)                                                      |
 
 The coffin opens after the vision. → Inside is a **Trinket** (an unopened letter from a dying family member) & a black onyx **signet ring** (p.16).
 
@@ -475,7 +475,7 @@ Should be enough to bring you though.
 
 Should the PCs collect a sample of the **brew** from the **Witch's Kitchen** (p.17), an **egg** from the **Rooftops** (p.31), the **bride cake topper** from the **Reception Hall** (p.25), the **noose** from **Yesteryear's Study** (p.27), and the **signet ring** from **The Count's Tomb** (p.14) & mix it altogether in this cauldron, they may add the final ingredient—a piece of themselves such as an eye, a tooth, or a finger to teleport themselves far, far away from the **Castle** & the **Count's** game. But where will they end up?
 
-### Witch ' s Kitchen
+### Witch's Kitchen
 
 ► **Muffled cries for help beyond the Kitchen door** → should the PC's open the door, a giant crooked hand reaches through to try to grab them (**Dexterity Save** or be grabbed by the hand and pulled inside).
 
@@ -485,10 +485,10 @@ Through the door is a large mouse hole leading into a **giant-sized kitchen coun
 
 | d4 | Giant Witch's Actions                                                                                                                                                                                 |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | <b>Smack with a ladel.</b> Dex Save if close to the blow or take 3d6 damage. Drawn to loud noises.                                                                                                    |
-| 2  | <b>Sprinkles enlarging powder</b> on one toad or spider, giving the creature an extra die of damage and advantage on Str Checks for the remainder of this area. Could be fooled by mimicked croaking. |
-| 3  | <b>Feel around for one PC.</b> Attack or dodge the hand or be tossed into the cooking pot. Can't feel the difference between a person and a toad.                                                     |
-| 4  | <b>Douse the whole countertop with pepper.</b> Constitution Save or sneeze, knowing right where you are.                                                                                              |
+| 1  | **Smack with a ladel.** Dex Save if close to the blow or take 3d6 damage. Drawn to loud noises.                                                                                                    |
+| 2  | **Sprinkles enlarging powder** on one toad or spider, giving the creature an extra die of damage and advantage on Str Checks for the remainder of this area. Could be fooled by mimicked croaking. |
+| 3  | **Feel around for one PC.** Attack or dodge the hand or be tossed into the cooking pot. Can't feel the difference between a person and a toad.                                                     |
+| 4  | **Douse the whole countertop with pepper.** Constitution Save or sneeze, knowing right where you are.                                                                                              |
 
 ► **Large pot boiling on the stovetop** → 1d6 fire damage if submerged in the pink rue (p.16). Cries of help from within → A man in priestly garb (12 HP) holds onto a bobbing potato. "The candles! The green flames give her power!"
 
@@ -518,12 +518,12 @@ If the **priest** is saved he will join the party. He knows of a possible escape
 
 Great dusty hall lit by torches in sconces. Vaulted ceiling held aloft by four stone columns. Many directions to go from here.
 
-- **To the North, a suit of plate armor stands at attention beside a grand stairway** ➔ Carries a **Greatsword**, armor as **plate**. A **Trinket** (a family member's iconic smoking pipe) plugs one of the breathing holes in helmet. ➔ Kicks you if armor or items are taken (8 HP). Tries to run up the stairway. ➔ Leads to **Audience Hall** (p.22).
-- **Distant organ music to the South** ➔ Leads to **Organ Room** (p.19).
+- **To the North, a suit of plate armor stands at attention beside a grand stairway** → Carries a **Greatsword**, armor as **plate**. A **Trinket** (a family member's iconic smoking pipe) plugs one of the breathing holes in helmet. → Kicks you if armor or items are taken (8 HP). Tries to run up the stairway. → Leads to **Audience Hall** (p.22).
+- **Distant organ music to the South** → Leads to **Organ Room** (p.19).
 
-- **Long, stained glass hallway to the East** ➔ Whispered prayers and incantations as you approach. Leads to **Desecrated Chapel** (p.20).
-- **A short hall to the West leads to the front gate where you first entered** ➔ Leads to **Living Gate** (p.21).
-- **Small stairway down** ➔ Leads to **Mess Hall** (p.15).
+- **Long, stained glass hallway to the East** → Whispered prayers and incantations as you approach. Leads to **Desecrated Chapel** (p.20).
+- **A short hall to the West leads to the front gate where you first entered** → Leads to **Living Gate** (p.21).
+- **Small stairway down** → Leads to **Mess Hall** (p.15).
 
 ### Organ Room
 
@@ -551,9 +551,9 @@ Lightening flashes through boarded-up stained glass windows. High domed ceiling.
 
 Low, gutteral breaths from the massive double doors . Metallic red veins weave from the doors into the surrounding stone.
 
-► **Closed front doors** ➔ Toothy mouth emanates as you approach. *“None may leave until the **Count** has had his fill. But I may look the other way should you offer me the taste of fair maiden’s blood. Within my walls there is a **damsel** whom I desire. Bring her to me—alive—and I shall open for you.”*
+► **Closed front doors** → Toothy mouth emanates as you approach. *“None may leave until the **Count** has had his fill. But I may look the other way should you offer me the taste of fair maiden’s blood. Within my walls there is a **damsel** whom I desire. Bring her to me—alive—and I shall open for you.”*
 
-- If the **damsel** (p.26) is fed to the **Living Gate**, the door will smile and say, “Come back at **Midnight.**” ➔ At **Midnight**, the door will be open, allowing you to escape the way you came in (*Should the PCs be waiting at the **Living Gate** until the stroke of Midnight, the **Count** will be standing on the other side as it opens*).
+- If the **damsel** (p.26) is fed to the **Living Gate**, the door will smile and say, “Come back at **Midnight.**” → At **Midnight**, the door will be open, allowing you to escape the way you came in (*Should the PCs be waiting at the **Living Gate** until the stroke of Midnight, the **Count** will be standing on the other side as it opens*).
 
 - If the **Living Gate** is attacked, it will scream every round, causing an automatic roll of an Escalating Encounter. The **Living Gate** cannot be harmed directly. Only destroying the **Beating Heart** (p.32) will cause the **Living Gate** to open.
 
@@ -622,10 +622,10 @@ Classical music from a gramophone reverberates within this opulent dining hall. 
 
 | d4 | Twirled off to...           |
 |----|-----------------------------|
-| 1  | <b>Catacombs</b> (p.12)     |
-| 2  | <b>Organ Room</b> (p.19)    |
-| 3  | <b>Rooftops</b> (p.31)      |
-| 4  | <b>Hidden Belfry</b> (p.28) |
+| 1  | **Catacombs** (p.12)     |
+| 2  | **Organ Room** (p.19)    |
+| 3  | **Rooftops** (p.31)      |
+| 4  | **Hidden Belfry** (p.28) |
 
 ► **Enlongated dining table in center** → Fine dining placements. 4-tiered wedding cake with a **bride** & groom cake topper (p.16). Rhythmic banging from behind the cake → At the end of the table, the groom is repeatedly slamming his head on the table between words. “Shes. Been. Waiting. For. You.” Disturbing him dims the lights. → The wedding cake from the groom’s angle has been cut straight down all 4 tiers. **Blood**, bone, and sinew mixed with icing slowly
 
@@ -637,10 +637,10 @@ sloshes down off the table, Raising the **Stress Level** by 1.
 
 | d4 | Wedding Presents                                                    |
 |----|---------------------------------------------------------------------|
-| 1  | A severed head mouthing “help” raises the <b>Stress Level</b> by 1. |
+| 1  | A severed head mouthing “help” raises the **Stress Level** by 1. |
 | 2  | A jar full of ash . “Gram-Gram” inscribed on the side.              |
-| 3  | <b>Trinket</b> (a dead pet’s broken collar)                         |
-| 4  | <b>Treasure</b> (a solid gold codpiece)                             |
+| 3  | **Trinket** (a dead pet’s broken collar)                         |
+| 4  | **Treasure** (a solid gold codpiece)                             |
 
 ► **A brass candlestick floats near a stairway** → Leads up to **Tower Lounge** (p.30)
 
@@ -671,7 +671,7 @@ Light snoring can be heard in this royal bedroom full of dark drapes and chipped
 
 ► **Wants:** A stiff drink & to go back to sleep.
 
-### Yesteryear ' s Study
+### Yesteryear's Study
 
 Large fireplace illuminating a cozy study that feels out of place from the rest of the **Castle**. Floor-to-ceiling bookshelves. Plush reading chairs.
 
@@ -711,7 +711,7 @@ The fireplace is empty, save for a single lit candle inside.
 
 Wood boards creak underfoot. A circular dead end illuminated by a windowpane high above.
 
-#### ► A thick corded rope dangles from above
+► **A thick corded rope dangles from above**
 
 → The rope vanishes into the dark void high above you. There is a note attached at eye level → *Do not ring this bell. Misfortune may be an act of virtue, but the demons of this world are drawn to its tones. The master of the **Castle** knows where you are, but to toll this bell would be folly. Do not ring this bell.*
 
@@ -823,8 +823,8 @@ The uppermost room in the uppermost tower of the **Castle**. A single window loo
 
 | Order | The Other Witch                                                                                                                                                          |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | A black cat crosses your path. Attempts to lead you to the <b>Witch's Kitchen</b> (p.17).                                                                                |
-| 2     | Sounds of someone sweeping as you enter the next room. An animated broom is sweeping the floor. It falls inert if touched, raising the <b>Stress Level</b> by 1.         |
+| 1     | A black cat crosses your path. Attempts to lead you to the **Witch's Kitchen** (p.17).                                                                                |
+| 2     | Sounds of someone sweeping as you enter the next room. An animated broom is sweeping the floor. It falls inert if touched, raising the **Stress Level** by 1.         |
 | 3     | Sweeping sounds again, this time an overweight naked old lady stands sweeping the floor. Holds a finger up to shush the party, which douses all the lights in this room. |
 | 4     | The black cat appears. Follows the party until another encounter appears, then turns into the witch & attacks.                                                           |
 
@@ -845,9 +845,9 @@ The uppermost room in the uppermost tower of the **Castle**. A single window loo
 | Order | The Count's Animated Armor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1     | A wooden stand meant for a suit of armor rests bare in the room. Metallic clinking can be heard in the distance.                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 2     | Nails on a chalkboard screech as you enter the room. A thin groove scratched into the floor from something heavy & sharp as a dented crimson helmet adorned with golden angel wings rolls toward you from the darkness, raising the <b>Stress Level</b> by <b>1</b>.                                                                                                                                                                                                                                                          |
+| 2     | Nails on a chalkboard screech as you enter the room. A thin groove scratched into the floor from something heavy & sharp as a dented crimson helmet adorned with golden angel wings rolls toward you from the darkness, raising the **Stress Level** by **1**.                                                                                                                                                                                                                                                          |
 | 3     | Metallic footsteps slowly approach you. A suit of crimson animated armor steps into the light holding an oversized greatsword & attacks. Falls apart if struck. The pieces disperse in all directions on their own after a pause.                                                                                                                                                                                                                                                                                             |
-| 4     | Slow metallic footsteps increase in intensity. The armor rushes the party in an attempt to fuse itself with a PC. <b>Strength save</b> or be fused with the armor, which swings wildly & attempts to break your arm/leg by hyperextending. <b>Save</b> each turn. Fail results in armor also having an action on your turn. Success gets you out of armor. Armor retreats if able. If destroyed, falls apart and can be worn as <b>+1 plate</b>. At Midnight, the armor reanimates & attempts to snap the neck of its wearer. |
+| 4     | Slow metallic footsteps increase in intensity. The armor rushes the party in an attempt to fuse itself with a PC. **Strength save** or be fused with the armor, which swings wildly & attempts to break your arm/leg by hyperextending. **Save** each turn. Fail results in armor also having an action on your turn. Success gets you out of armor. Armor retreats if able. If destroyed, falls apart and can be worn as **+1 plate**. At Midnight, the armor reanimates & attempts to snap the neck of its wearer. |
 
 ### The Count's Animated Armor
 
@@ -861,17 +861,16 @@ No words from this flaking, red-painted armor—just the grinding of steel again
 
 | Order | Dorothy the Spider Queen                                                                                                                                                                                                                                                                                                            |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | Dozens of little spiders scurry from the cracks within the walls and beneath the furniture, raising the <b>Stress Level</b> by 1 while in this room.                                                                                                                                                                                |
-| 2     | A strange orb completely made up of webbing in the corner of the room → a corpse that looks like one of your PCs. <b>Wisdom Save</b> by the one opening it or have the <b>Stress Level</b> raise by 1. → Inside is that PC's preferred mundane weapon.                                                                              |
-| 3     | Call for a marching order. Whoever is in the back must make a <b>Strength Save</b> or be lifted off the ground by a strand of thick webbing from the ceiling, followed by a <b>bite</b> for the throat. Whether she hits or misses, a thin woman with too many arms scampers away on the ceiling, dropping the PC.                  |
-| 4     | Casts <b>web</b> on the party, a torrent of spiders crawl from the shadows/cracks biting for 1d6 damage, followed by Dorothy rushing on her four spidery legs. Retreats once a PC is free from web. If killed, turns into a swarm of tiny spiders which scamper to her coffin. Several spiders try to carry away an iron key (p.33) |
+| 1     | Dozens of little spiders scurry from the cracks within the walls and beneath the furniture, raising the **Stress Level** by 1 while in this room.                                                                                                                                                                                |
+| 2     | A strange orb completely made up of webbing in the corner of the room → a corpse that looks like one of your PCs. **Wisdom Save** by the one opening it or have the **Stress Level** raise by 1. → Inside is that PC's preferred mundane weapon.                                                                              |
+| 3     | Call for a marching order. Whoever is in the back must make a **Strength Save** or be lifted off the ground by a strand of thick webbing from the ceiling, followed by a **bite** for the throat. Whether she hits or misses, a thin woman with too many arms scampers away on the ceiling, dropping the PC.                  |
+| 4     | Casts **web** on the party, a torrent of spiders crawl from the shadows/cracks biting for 1d6 damage, followed by Dorothy rushing on her four spidery legs. Retreats once a PC is free from web. If killed, turns into a swarm of tiny spiders which scamper to her coffin. Several spiders try to carry away an iron key (p.33) |
 
 ### Dorothy, the Spider Queen
 
 “What is it, my babies? Yes, yes. Mother feels them too.”
 
-**HP 35, S +2, D +4, C +3, I +2 W +2, Ch +3, MV**  
-double near, **AL C**
+**HP 35, S +2, D +4, C +3, I +2 W +2, Ch +3, MV double near, AL C**
 
 ► **ATK** Bite +5 (2d6+1d6 HP gain) or web bola +7 (1d4 + **Dex Save** or fall prone).
 
@@ -882,15 +881,15 @@ double near, **AL C**
 | Order | Sister Geraldine, the Fallen Nun                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1     | Black pentagram star streaked on the wall/floor, a holy symbol in the center begins to smoke, then alights on fire & falls off the wall, charred.                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 2     | Various holy symbols pinned to the walls, all of which slowly invert upside-down. Dark <b>blood</b> oozes from the symbols.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 3     | <b>Perception check</b> or turn a coner and meet a pale woman dressed in a black robe & habit in a silent stare, eyes black and void. Failure results in save vs Wisdom or <b>Hold Person</b> as she silently floats away, increasing the <b>Stress</b> by 1. Silently floats into the next room regardless.                                                                                                                                                                                                                                                         |
-| 4     | Portraits of the <b>Sister</b> sitting on an easel/hanging on the walls, +1 portrait per repeat encounter. Lights go out if approached, holy symbols heat and smoke, 1d6 fire unless dropped. Once covered in darkness, she flies out from one of the portraits and <b>bites</b>. Mundane weapons pass right through her unless they are Cleric weapons. Destroying the portraits or attacking her with a spell causes her to flee. If killed, turns into a pillar of salt, which crumbles and drifts towards her coffin. An iron key (p.33) rests in the salt pile. |
+| 2     | Various holy symbols pinned to the walls, all of which slowly invert upside-down. Dark **blood** oozes from the symbols.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 3     | **Perception check** or turn a coner and meet a pale woman dressed in a black robe & habit in a silent stare, eyes black and void. Failure results in save vs Wisdom or **Hold Person** as she silently floats away, increasing the **Stress** by 1. Silently floats into the next room regardless.                                                                                                                                                                                                                                                         |
+| 4     | Portraits of the **Sister** sitting on an easel/hanging on the walls, +1 portrait per repeat encounter. Lights go out if approached, holy symbols heat and smoke, 1d6 fire unless dropped. Once covered in darkness, she flies out from one of the portraits and **bites**. Mundane weapons pass right through her unless they are Cleric weapons. Destroying the portraits or attacking her with a spell causes her to flee. If killed, turns into a pillar of salt, which crumbles and drifts towards her coffin. An iron key (p.33) rests in the salt pile. |
 
 ### Sister Geraldine, Fallen Nun
 
 Silence. Only eyeless sockets staring through your soul.
 
-**HP** 35, **S** +0, **D** +3, **C** +2, **I** +3 **W** +4, **Ch** -1, **MV** near, **AL** C
+**HP 35, S +0, D +3, C +2, I +3 W +4, Ch -1, MV near, AL C**
 
 ► **ATK** Bite +3 (2d6+1d6 HP gain) or Claw +3 (1d8)
 
@@ -901,9 +900,9 @@ Silence. Only eyeless sockets staring through your soul.
 | Order | Christina, the Seductress                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1     | Pink waft of mist. Strong scent of flowery perfume, a flirtly giggle echoes down the halls.                                                                                                                                                                                                                                                                                                                                   |
-| 2     | Sounds of kissing before you enter the room, followed by screaming that is sharply silenced. Inside the next room is a corpse of what appears to be one of you lying on satin covers & plush pillows—face completely blank as if erased off, as well as an open wound near the jugular. Raises the <b>Stress Level</b> by 1.                                                                                                  |
-| 3     | Call for a marching order. The one in the lead must make a <b>Charisma Save</b> to notice one of the other PCs (the copy missing their face from the above result) is acting notably different before they sprout fangs & attempt to bite you. The traitor turns into a pale woman, terribly beautiful were it not for the contorting face as she scampers away like an insect. The original PC walks in from where you came. |
-| 4     | Appears as <b>Matilda</b> (p.26), even if the real Matilda is with the party. Is lost & looking for someone to rescue her. Very clingy. Very flirtatious. Very touchy until she can easily get a <b>bite</b>. If killed, turns into a pink mist with wilted rose petals that trail to her coffin. Leaves an iron key (p.33) which clangs on the ground.                                                                       |
+| 2     | Sounds of kissing before you enter the room, followed by screaming that is sharply silenced. Inside the next room is a corpse of what appears to be one of you lying on satin covers & plush pillows—face completely blank as if erased off, as well as an open wound near the jugular. Raises the **Stress Level** by 1.                                                                                                  |
+| 3     | Call for a marching order. The one in the lead must make a **Charisma Save** to notice one of the other PCs (the copy missing their face from the above result) is acting notably different before they sprout fangs & attempt to bite you. The traitor turns into a pale woman, terribly beautiful were it not for the contorting face as she scampers away like an insect. The original PC walks in from where you came. |
+| 4     | Appears as **Matilda** (p.26), even if the real Matilda is with the party. Is lost & looking for someone to rescue her. Very clingy. Very flirtatious. Very touchy until she can easily get a **bite**. If killed, turns into a pink mist with wilted rose petals that trail to her coffin. Leaves an iron key (p.33) which clangs on the ground.                                                                       |
 
 ### Christina, the Seductress
 
@@ -919,17 +918,16 @@ Silence. Only eyeless sockets staring through your soul.
 
 | Order | The Count                                                                                                                                                                                                                            |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | A sealed note rests under a wine glass filled with <b>blood</b>. Inside is a letter of mock apology as well as a peace offering: drinking the <b>blood</b> in this glass allows you to choose which Vampiric Trait (p.5) to receive. |
-| 2     | Lightning strikes, a long shadow of a winged creature flashes in the lights, raising the <b>Stress Level</b> by 1.                                                                                                                   |
-| 3     | Quiet peeps can be heard up ahead. A single bat flutters towards the party, followed by a cacophony of large bats battering the party as they fly past, raising the <b>Stress Level</b> by 1.                                        |
-| 4     | The <b>Count</b> appears, taunting the party. Will retaliate if attacked once, then flee as a swarm of bats.                                                                                                                         |
+| 1     | A sealed note rests under a wine glass filled with **blood**. Inside is a letter of mock apology as well as a peace offering: drinking the **blood** in this glass allows you to choose which Vampiric Trait (p.5) to receive. |
+| 2     | Lightning strikes, a long shadow of a winged creature flashes in the lights, raising the **Stress Level** by 1.                                                                                                                   |
+| 3     | Quiet peeps can be heard up ahead. A single bat flutters towards the party, followed by a cacophony of large bats battering the party as they fly past, raising the **Stress Level** by 1.                                        |
+| 4     | The **Count** appears, taunting the party. Will retaliate if attacked once, then flee as a swarm of bats.                                                                                                                         |
 
 # The Count
 
 “Good evening. I trust you are enjoying tonight’s game?”
 
-**HP 60, S +4, D +4, C +4, I +3, W +5, Ch +4, MV**  
-double near, **AL L**
+**HP 60, S +4, D +4, C +4, I +3, W +5, Ch +4, MV double near, AL L**
 
 ► **ATK** x2 claw +7 (1d8+4) or x1 bite +7 (3d6+2d6 HP gain)
 
