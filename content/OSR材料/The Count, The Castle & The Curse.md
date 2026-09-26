@@ -411,7 +411,6 @@ The coffin opens after the vision. → Inside is a **Trinket** (an unopened lett
 
 ### The Larders
 
-### Mess Hall
 
 #### (Intersection)
 
@@ -424,6 +423,8 @@ Three paths lie before you here, but a fourth choice presents itself as well...
 ► **Dim greenish glow around a far corner** → To **Cauldron Room** (p.16).
 
 ► **Long flight of stairs leading down** → To **Torture Chamber Stone Balcony** (p.11).
+
+### Mess Hall
 
 Clinking mugs and slurred songs bounce off the high ceiling within this mess hall.
 
