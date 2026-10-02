@@ -18,6 +18,8 @@ tp.hooks.on_all_templates_executed(async () => {
     frontmatter["wound"] = frontmatter["wound"] || 3;
   });
 });
+
+await tp.file.move("/母舰 Mothership/梯度下降 GD/NPC/" + title)
 -%>
 
 <%tp.file.cursor(0)%>
