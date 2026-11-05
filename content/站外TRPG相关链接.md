@@ -3,7 +3,7 @@ date: 2025-11-15
 tags: 
 ---
 
-- [404の雾隐迷踪](https://www.404trpg.xyz/)：404的TRPG相关内容个人站
+- [404の雾隐迷踪](https://trpg-u6ez.vercel.app)：404的TRPG相关内容个人站
 	- MIST系列：迷雾之城，雾中奇谈
 - [Zz诺亚方舟](https://zznoah.github.io/Ark/)：ZzNoah的资料站
 	- 恶棍，阈限恐怖，石冢
