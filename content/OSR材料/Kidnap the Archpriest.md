@@ -5,7 +5,7 @@ aliases: []
 tags: []
 ---
 
-# INTRODUCTION
+# Introduction
 
 When you first start up Super Mario Bros., the game doesn't give you any instructions. The first level is cunningly designed to teach you the rules: jump on enemies, pick up mushrooms, looks for secrets, get coins, avoid pits. There is no tutorial. The game itself is the tutorial.
 
